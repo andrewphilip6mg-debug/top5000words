@@ -1,0 +1,160 @@
+1A	the	Please give me <b>[...]</b> blue book.	Please give me the blue book.	[Definite Article] specific item	Por favor, dame el libro azul.
+2A	be	I want to <b>[...]</b> a doctor.	I want to be a doctor.	[Verb] exist or live	Quiero ser doctor.
+2B	be	They will <b>[...]</b> playing soccer later.	They will be playing soccer later.	[Auxiliary Verb] continuous tense or passive	Ellos estarán jugando fútbol más tarde.
+3A	and	I bought apples <b>[...]</b> oranges.	I bought apples and oranges.	[Conjunction] in addition to	Compré manzanas y naranjas.
+4A	of	The color <b>[...]</b> the car is red.	The color of the car is red.	[Preposition] belonging to or possession	El color del auto es rojo.
+4B	of	This table is made <b>[...]</b> wood.	This table is made of wood.	[Preposition] origin or composition	Esta mesa está hecha de madera.
+5A	a	I have <b>[...]</b> cat and a dog.	I have a cat and a dog.	[Indefinite Article] one non-specific item	Tengo un gato y un perro.
+6A	in	My keys are <b>[...]</b> the box.	My keys are in the box.	[Preposition] location inside	Mis llaves están en la caja.
+6B	in	My birthday is <b>[...]</b> December.	My birthday is in December.	[Preposition] time period	Mi cumpleaños es en diciembre.
+6C	in	I am <b>[...]</b> trouble.	I am in trouble.	[Preposition] state or condition	Estoy en problemas.
+7A	to	I want to go <b>[...]</b> the park.	I want to go to the park.	[Preposition] direction or destination	Quiero ir al parque.
+7B	to	I need <b>[...]</b> sleep now.	I need to sleep now.	[Particle] infinitive marker	Necesito dormir ahora.
+8A	have	I <b>[...]</b> two brothers.	I have two brothers.	[Verb] possess or own	Tengo dos hermanos.
+8B	have	I <b>[...]</b> eaten pizza before.	I have eaten pizza before.	[Auxiliary Verb] perfect tense indicator	He comido pizza antes.
+8C	have	You <b>[...]</b> to clean your room.	You have to clean your room.	[Modal Verb] necessity or obligation	Tienes que limpiar tu habitación.
+9A	it	Where is my phone? I can't find <b>[...]</b>.	Where is my phone? I can't find it.	[Pronoun] inanimate object or animal	¿Dónde está mi teléfono? No puedo encontrarlo.
+9B	it	<b>[...]</b> is very cold today.	It is very cold today.	[Pronoun] dummy subject for weather or time	Hace mucho frío hoy.
+10A	I	<b>[...]</b> live in a big city.	I live in a big city.	[Pronoun] first person singular subject	Yo vivo en una ciudad grande.
+11A	that	Look at <b>[...]</b> bird in the sky!	Look at that bird in the sky!	[Demonstrative Pronoun] referring to a specific distant thing	¡Mira ese pájaro en el cielo!
+11B	that	The car <b>[...]</b> I bought is red.	The car that I bought is red.	[Conjunction] relative clause linker	El auto que compré es rojo.
+11C	that	He was so tired <b>[...]</b> he slept all day.	He was so tired that he slept all day.	[Conjunction] expressing cause or result	Estaba tan cansado que durmió todo el día.
+12A	for	I bought this gift <b>[...]</b> you.	I bought this gift for you.	[Preposition] intended recipient or purpose	Compré este regalo para ti.
+12B	for	I lived there <b>[...]</b> five years.	I lived there for five years.	[Preposition] duration of time	Viví allí durante cinco años.
+13A	you	Are <b>[...]</b> happy?	Are you happy?	[Pronoun] second person subject or object	¿Estás feliz?
+14A	he	<b>[...]</b> is my best friend.	He is my best friend.	[Pronoun] third person male subject	Él es mi mejor amigo.
+15A	with	I went to the park <b>[...]</b> my dog.	I went to the park with my dog.	[Preposition] accompaniment or alongside	Fui al parque con mi perro.
+15B	with	I cut the apple <b>[...]</b> a knife.	I cut the apple with a knife.	[Preposition] using a tool or instrument	Corté la manzana con un cuchillo.
+16A	on	The book is <b>[...]</b> the table.	The book is on the table.	[Preposition] resting upon a surface	El libro está sobre la mesa.
+16B	on	I do not work <b>[...]</b> Sundays.	I do not work on Sundays.	[Preposition] indicating days or dates	No trabajo los domingos.
+17A	do	I usually <b>[...]</b> my homework at night.	I usually do my homework at night.	[Verb] perform an action or task	Usualmente hago mi tarea en la noche.
+17B	do	<b>[...]</b> you like to play soccer?	Do you like to play soccer?	[Auxiliary Verb] forming questions or negations	¿Te gusta jugar al fútbol?
+17C	do	I <b>[...]</b> want to go to the party!	I do want to go to the party!	[Auxiliary Verb] emphasis	¡Sí que quiero ir a la fiesta!
+18A	say	What did she <b>[...]</b> to you?	What did she say to you?	[Verb] speak words or express verbally	¿Qué te dijo ella?
+19A	this	<b>[...]</b> is my favorite song.	This is my favorite song.	[Demonstrative Pronoun] referring to a specific close thing	Esta es mi canción favorita.
+20A	they	My parents are not here, <b>[...]</b> are at work.	My parents are not here, they are at work.	[Pronoun] third person plural subject	Mis padres no están aquí, ellos están en el trabajo.
+21A	at	I am waiting <b>[...]</b> the bus stop.	I am waiting at the bus stop.	[Preposition] specific physical location	Estoy esperando en la parada de autobús.
+21B	at	The class starts <b>[...]</b> 8:00 AM.	The class starts at 8:00 AM.	[Preposition] specific point in time	La clase empieza a las 8:00 AM.
+22A	but	I like apples, <b>[...]</b> I don't like bananas.	I like apples, but I don't like bananas.	[Conjunction] introducing a contrast or exception	Me gustan las manzanas, pero no me gustan los plátanos.
+23A	we	<b>[...]</b> are going to the cinema tonight.	We are going to the cinema tonight.	[Pronoun] first person plural subject	Nosotros vamos al cine esta noche.
+24A	his	John lost <b>[...]</b> keys yesterday.	John lost his keys yesterday.	[Possessive Adjective] belonging to a male	John perdió sus llaves ayer.
+24B	his	This pen is not mine, it is <b>[...]</b>.	This pen is not mine, it is his.	[Pronoun] masculine possessive standalone	Este bolígrafo no es mío, es suyo (de él).
+25A	from	I am <b>[...]</b> Mexico.	I am from Mexico.	[Preposition] indicating point of origin	Yo soy de México.
+26A	not	I am <b>[...]</b> tired right now.	I am not tired right now.	[Adverb] indicating negation or refusal	No estoy cansado en este momento.
+27A	by	The picture was drawn <b>[...]</b> my son.	The picture was drawn by my son.	[Preposition] identifying the agent performing an action	El dibujo fue hecho por mi hijo.
+27B	by	I usually go to school <b>[...]</b> bus.	I usually go to school by bus.	[Preposition] method or means of doing something	Usualmente voy a la escuela en autobús.
+27C	by	I need the money <b>[...]</b> tomorrow.	I need the money by tomorrow.	[Preposition] deadline or not later than	Necesito el dinero para mañana.
+28A	she	<b>[...]</b> is reading a book.	She is reading a book.	[Pronoun] third person female subject	Ella está leyendo un libro.
+29A	or	Do you prefer tea <b>[...]</b> coffee?	Do you prefer tea or coffee?	[Conjunction] linking alternatives or choices	¿Prefieres té o café?
+30A	as	He works <b>[...]</b> a teacher.	He works as a teacher.	[Preposition] in the role or capacity of	Él trabaja como profesor.
+30B	as	My house is <b>[...]</b> big as your house.	My house is as big as your house.	[Conjunction] used in comparisons	Mi casa es tan grande como tu casa.
+30C	as	<b>[...]</b> I was walking, I saw a dog.	As I was walking, I saw a dog.	[Conjunction] simultaneous time or while	Mientras caminaba, vi un perro.
+31A	what	<b>[...]</b> is your name?	What is your name?	[Interrogative Pronoun] asking for specific information	¿Cuál es tu nombre?
+31B	what	<b>[...]</b> a fast car!	What a fast car!	[Determiner] expressing strong emotion	¡Qué auto tan rápido!
+32A	go	I want to <b>[...]</b> to the store.	I want to go to the store.	[Verb] move or travel to a place	Quiero ir a la tienda.
+32B	go	Please <b>[...]</b> on, I am listening.	Please go on, I am listening.	[Phrasal Verb] continue an action	Por favor continúa, estoy escuchando.
+33A	their	The children are playing with <b>[...]</b> toys.	The children are playing with their toys.	[Possessive Adjective] belonging to them	Los niños están jugando con sus juguetes.
+34A	can	I <b>[...]</b> swim very well.	I can swim very well.	[Modal Verb] expressing ability or capability	Puedo nadar muy bien.
+34B	can	I drank a cold <b>[...]</b> of cola.	I drank a cold can of cola.	[Noun] sealed metal container for food	Bebí una lata fría de cola.
+34C	can	<b>[...]</b> you help me?	Can you help me?	[Modal Verb] polite request or permission	¿Puedes ayudarme?
+35A	who	The boy <b>[...]</b> is running is my son.	The boy who is running is my son.	[Pronoun] referring to a person in questions or clauses	El niño que está corriendo es mi hijo.
+36A	get	I <b>[...]</b> a letter today.	I got a letter today.	[Verb] receive or obtain	Recibí una carta hoy.
+36B	get	Drink water or you will <b>[...]</b> sick.	Drink water or you will get sick.	[Verb] become or transition state	Bebe agua o te enfermarás.
+36C	get	I usually <b>[...]</b> home at night.	I usually get home at night.	[Verb] arrive or reach destination	Usualmente llego a casa en la noche.
+37A	if	<b>[...]</b> it rains, we will stay at home.	If it rains, we will stay at home.	[Conjunction] introducing a conditional clause	Si llueve, nos quedaremos en casa.
+38A	would	I <b>[...]</b> buy a car if I had the money.	I would buy a car if I had the money.	[Modal Verb] expressing conditional or hypothetical situations	Compraría un auto si tuviera el dinero.
+38B	would	When I was a kid, I <b>[...]</b> play outside.	When I was a kid, I would play outside.	[Modal Verb] expressing a past habit	Cuando era niño, solía jugar afuera.
+39A	her	I love my mother and I call <b>[...]</b> every day.	I love my mother and I call her every day.	[Pronoun] female object of a verb or preposition	Amo a mi madre y la llamo todos los días.
+39B	her	She put on <b>[...]</b> coat.	She put on her coat.	[Possessive Adjective] belonging to a female	Ella se puso su abrigo.
+40A	all	<b>[...]</b> the kids are playing.	All the kids are playing.	[Determiner] the whole quantity or extent	Todos los niños están jugando.
+41A	my	<b>[...]</b> favorite color is blue.	My favorite color is blue.	[Possessive Adjective] belonging to the speaker	Mi color favorito es el azul.
+42A	make	I will <b>[...]</b> a cake for the party.	I will make a cake for the party.	[Verb] create, produce or construct	Haré un pastel para la fiesta.
+42B	make	The sad song always <b>[...]</b> me cry.	The sad song always makes me cry.	[Verb] cause or force something to happen	La canción triste siempre me hace llorar.
+42C	make	Is that true, or are you <b>[...]</b> it up?	Is that true, or are you making it up?	[Phrasal Verb] invent a story or lie	¿Es eso cierto, o lo estás inventando?
+43A	about	We talked <b>[...]</b> our favorite movies.	We talked about our favorite movies.	[Preposition] concerning or regarding a subject	Hablamos sobre nuestras películas favoritas.
+43B	about	He is <b>[...]</b> ten years old.	He is about ten years old.	[Adverb] approximately or roughly	Él tiene aproximadamente diez años.
+44A	know	I don't <b>[...]</b> where the station is.	I don't know where the station is.	[Verb] have information or be aware of	No sé dónde está la estación.
+44B	know	Do you <b>[...]</b> my friend Sarah?	Do you know my friend Sarah?	[Verb] be acquainted with a person	¿Conoces a mi amiga Sarah?
+45A	will	I <b>[...]</b> call you tomorrow.	I will call you tomorrow.	[Modal Verb] expressing future intention or certainty	Te llamaré mañana.
+45B	will	My grandpa left a house in his <b>[...]</b>.	My grandpa left a house in his will.	[Noun] legal document declaring desires after death	Mi abuelo dejó una casa en su testamento.
+46A	up	Look <b>[...]</b> at the stars.	Look up at the stars.	[Adverb] towards a higher position	Mira hacia arriba a las estrellas.
+46B	up	Eat <b>[...]</b> your food.	Eat up your food.	[Particle] completion of an action	Cómete toda tu comida.
+47A	one	I have <b>[...]</b> apple and two oranges.	I have one apple and two oranges.	[Number] a single unit or thing	Tengo una manzana y dos naranjas.
+47B	one	I prefer the blue <b>[...]</b>.	I prefer the blue one.	[Pronoun] noun replacement	Prefiero el azul (la de color azul).
+48A	time	What <b>[...]</b> is the meeting?	What time is the meeting?	[Noun] duration or continuous progress of existence	¿A qué hora es la reunión?
+49A	there	Look at the big tree over <b>[...]</b>.	Look at the big tree over there.	[Adverb] in, at, or to that specific place	Mira el árbol grande allá.
+49B	there	<b>[...]</b> is a dog in the park.	There is a dog in the park.	[Pronoun] existential use indicating presence or existence	Hay un perro en el parque.
+50A	year	There are 12 months in a <b>[...]</b>.	There are 12 months in a year.	[Noun] period of 365 days	Hay 12 meses en un año.
+51A	so	I am <b>[...]</b> happy to see you!	I am so happy to see you!	[Adverb] to such a great extent or degree	¡Estoy tan feliz de verte!
+51B	so	I was sick, <b>[...]</b> I stayed home.	I was sick, so I stayed home.	[Conjunction] therefore or for that reason	Estaba enfermo, así que me quedé en casa.
+52A	think	I <b>[...]</b> that is a great idea.	I think that is a great idea.	[Verb] have a particular belief or opinion	Creo que esa es una gran idea.
+53A	when	I will text you <b>[...]</b> I arrive.	I will text you when I arrive.	[Conjunction] at or during the time that	Te enviaré un mensaje cuando llegue.
+54A	which	<b>[...]</b> color do you prefer?	Which color do you prefer?	[Pronoun] asking or identifying a specific choice	¿Qué color prefieres?
+55A	them	I like my shoes, I wear <b>[...]</b> every day.	I like my shoes, I wear them every day.	[Pronoun] third person plural object	Me gustan mis zapatos, los uso todos los días.
+56A	some	I need to buy <b>[...]</b> milk.	I need to buy some milk.	[Determiner] an unspecified amount or quantity	Necesito comprar algo de leche.
+56B	some	<b>[...]</b> of the boys are tall.	Some of the boys are tall.	[Pronoun] unspecified portion of a group	Algunos de los chicos son altos.
+57A	me	Please give <b>[...]</b> the water.	Please give me the water.	[Pronoun] first person singular object	Por favor dame el agua.
+58A	people	There are a lot of <b>[...]</b> in the park.	There are a lot of people in the park.	[Noun] human beings in general or plural of person	Hay muchas personas en el parque.
+59A	take	Don't forget to <b>[...]</b> your keys.	Don't forget to take your keys.	[Verb] carry or bring with oneself	No olvides llevar tus llaves.
+59B	take	It <b>[...]</b> 30 minutes to cook this.	It takes 30 minutes to cook this.	[Verb] require or consume time	Toma 30 minutos cocinar esto.
+59C	take	The plane will <b>[...]</b> off in five minutes.	The plane will take off in five minutes.	[Phrasal Verb] depart or leave the ground	El avión despegará en cinco minutos.
+60A	out	I looked <b>[...]</b> the window.	I looked out the window.	[Adverb] moving away from the inside	Miré hacia afuera por la ventana.
+60B	out	The movie turned <b>[...]</b> to be boring.	The movie turned out to be boring.	[Particle] result or end up	La película resultó ser aburrida.
+61A	into	She put the water <b>[...]</b> the cup.	She put the water into the cup.	[Preposition] moving to the inside or interior of	Ella puso el agua dentro de la taza.
+62A	just	I <b>[...]</b> finished my lunch.	I just finished my lunch.	[Adverb] very recently or a moment ago	Acabo de terminar mi almuerzo.
+62B	just	I am <b>[...]</b> a student.	I am just a student.	[Adverb] merely, exactly or only	Soy solo un estudiante.
+63A	see	I can <b>[...]</b> a bird in that tree.	I can see a bird in that tree.	[Verb] perceive with the eyes	Puedo ver un pájaro en ese árbol.
+63B	see	Oh, I <b>[...]</b> what you mean.	Oh, I see what you mean.	[Verb] understand or comprehend a concept	Oh, entiendo lo que quieres decir.
+64A	him	John is a nice guy, I like <b>[...]</b>.	John is a nice guy, I like him.	[Pronoun] third person male object	John es un buen chico, me agrada (él).
+65A	your	Is this <b>[...]</b> jacket or mine?	Is this your jacket or mine?	[Possessive Adjective] belonging to the person being spoken to	¿Es esta tu chaqueta o la mía?
+66A	come	Can you <b>[...]</b> to my house tonight?	Can you come to my house tonight?	[Verb] move toward the speaker or a specified place	¿Puedes venir a mi casa esta noche?
+66B	come	She <b>[...]</b> up with a good idea.	She came up with a good idea.	[Phrasal Verb] think of or produce an idea	A ella se le ocurrió una buena idea.
+67A	could	I <b>[...]</b> swim when I was five.	I could swim when I was five.	[Modal Verb] expressing past ability or possibility	Yo podía nadar cuando tenía cinco años.
+68A	now	I am studying right <b>[...]</b>.	I am studying right now.	[Adverb] at the present time or moment	Estoy estudiando ahora mismo.
+69A	than	A car is faster <b>[...]</b> a bicycle.	A car is faster than a bicycle.	[Conjunction] used to introduce the second element in a comparison	Un auto es más rápido que una bicicleta.
+70A	like	I really <b>[...]</b> playing games.	I really like playing games.	[Verb] find pleasant or enjoy	Realmente me gusta jugar juegos.
+70B	like	He looks <b>[...]</b> his father.	He looks like his father.	[Preposition] having the same characteristics or similar to	Él se parece a su padre.
+70C	like	I like big animals, <b>[...]</b> elephants.	I like big animals, like elephants.	[Preposition] such as or for example	Me gustan los animales grandes, como los elefantes.
+71A	other	I have one shoe, where is the <b>[...]</b> one?	I have one shoe, where is the other one?	[Adjective] different or additional	Tengo un zapato, ¿dónde está el otro?
+72A	how	<b>[...]</b> do you make this soup?	How do you make this soup?	[Adverb] in what way or manner	¿Cómo haces esta sopa?
+73A	then	We ate dinner and <b>[...]</b> we watched TV.	We ate dinner and then we watched TV.	[Adverb] at that time or next in a sequence	Cenamos y luego vimos televisión.
+74A	its	The dog is playing with <b>[...]</b> toy.	The dog is playing with its toy.	[Possessive Adjective] belonging to an animal or inanimate thing	El perro está jugando con su juguete.
+75A	our	This is <b>[...]</b> house, we bought it.	This is our house, we bought it.	[Possessive Adjective] belonging to us	Esta es nuestra casa, la compramos.
+76A	two	I have <b>[...]</b> eyes.	I have two eyes.	[Number] the quantity of 2	Tengo dos ojos.
+77A	more	Do you want <b>[...]</b> water?	Do you want more water?	[Adjective] a greater or additional amount	¿Quieres más agua?
+78A	these	<b>[...]</b> shoes are too small.	These shoes are too small.	[Demonstrative Pronoun] referring to plural items close by	Estos zapatos son demasiado pequeños.
+79A	want	I <b>[...]</b> to eat a burger.	I want to eat a burger.	[Verb] have a desire or wish for something	Quiero comer una hamburguesa.
+80A	way	What is the best <b>[...]</b> to learn English?	What is the best way to learn English?	[Noun] method, style or manner of doing something	¿Cuál es la mejor manera de aprender inglés?
+80B	way	Can you show me the <b>[...]</b> to the hotel?	Can you show me the way to the hotel?	[Noun] route, direction or path	¿Puedes mostrarme el camino hacia el hotel?
+81A	look	<b>[...]</b> at that bird!	Look at that bird!	[Verb] direct one's gaze toward someone or something	¡Mira ese pájaro!
+81B	look	You <b>[...]</b> very happy today.	You look very happy today.	[Verb] have a specific appearance or seem	Te ves muy feliz hoy.
+81C	look	I need to <b>[...]</b> for my dog.	I need to look for my dog.	[Phrasal Verb] search or try to find	Necesito buscar a mi perro.
+82A	first	January is the <b>[...]</b> month of the year.	January is the first month of the year.	[Adjective] coming before all others in time or order	Enero es el primer mes del año.
+83A	also	She speaks English, and she <b>[...]</b> speaks French.	She speaks English, and she also speaks French.	[Adverb] in addition or similarly	Ella habla inglés, y también habla francés.
+84A	new	I bought a <b>[...]</b> car yesterday.	I bought a new car yesterday.	[Adjective] recently created or acquired; not old	Compré un auto nuevo ayer.
+85A	because	I am tired <b>[...]</b> I slept very little.	I am tired because I slept very little.	[Conjunction] for the reason that	Estoy cansado porque dormí muy poco.
+86A	day	There are seven <b>[...]</b> in a week.	There are seven days in a week.	[Noun] a period of twenty-four hours	Hay siete días en una semana.
+86B	day	I work during the <b>[...]</b> and sleep at night.	I work during the day and sleep at night.	[Noun] daylight hours	Trabajo de día y duermo de noche.
+87A	use	Can I <b>[...]</b> your phone?	Can I use your phone?	[Verb] employ or utilize for a specific purpose	¿Puedo usar tu teléfono?
+87B	use	What is the <b>[...]</b> of this tool?	What is the use of this tool?	[Noun] purpose or application	¿Cuál es el uso de esta herramienta?
+88A	no	I have <b>[...]</b> money.	I have no money.	[Determiner] not any or indicating zero quantity	No tengo dinero.
+88B	no	The answer is <b>[...]</b>.	The answer is no.	[Noun] refusal or negative answer	La respuesta es no.
+89A	man	That tall <b>[...]</b> is my uncle.	That tall man is my uncle.	[Noun] an adult human male	Ese hombre alto es mi tío.
+90A	find	I can't <b>[...]</b> my socks.	I can't find my socks.	[Verb] discover something by chance or searching	No puedo encontrar mis calcetines.
+90B	find	I <b>[...]</b> this game very fun.	I find this game very fun.	[Verb] realize or conclude an opinion	Encuentro este juego muy divertido.
+91A	here	Come <b>[...]</b> and look at this.	Come here and look at this.	[Adverb] in, at, or to this specific place	Ven aquí y mira esto.
+92A	thing	What is that <b>[...]</b> on the table?	What is that thing on the table?	[Noun] an inanimate object, concept or abstract entity	¿Qué es esa cosa sobre la mesa?
+93A	give	Can you <b>[...]</b> me a paper?	Can you give me a paper?	[Verb] freely transfer possession or provide	¿Puedes darme un papel?
+93B	give	This game is too hard, I <b>[...]</b> up.	This game is too hard, I give up.	[Phrasal Verb] quit or surrender	Este juego es muy difícil, me rindo.
+94A	many	How <b>[...]</b> brothers do you have?	How many brothers do you have?	[Determiner] a large number of things or people	¿Cuántos hermanos tienes?
+95A	well	He plays the guitar very <b>[...]</b>.	He plays the guitar very well.	[Adverb] in a good, satisfactory or effective way	Él toca la guitarra muy bien.
+95B	well	The farm has a deep <b>[...]</b> for water.	The farm has a deep well for water.	[Noun] a deep hole made to extract water	La granja tiene un pozo profundo para agua.
+95C	well	<b>[...]</b>, I don't know the answer.	Well, I don't know the answer.	[Interjection] discourse marker or hesitation	Bueno, no sé la respuesta.
+95D	well	I don't feel <b>[...]</b> today.	I don't feel well today.	[Adjective] healthy or in good condition	No me siento bien hoy.
+96A	only	I have <b>[...]</b> five dollars.	I have only five dollars.	[Adjective] single, solitary or exclusive	Tengo solo cinco dólares.
+97A	those	Look at <b>[...]</b> birds in the sky.	Look at those birds in the sky.	[Demonstrative Pronoun] referring to plural items far away	Mira esos pájaros en el cielo.
+98A	tell	Please <b>[...]</b> me a story.	Please tell me a story.	[Verb] communicate information to someone in spoken or written words	Por favor, cuéntame una historia.
+98B	tell	Can you <b>[...]</b> the difference?	Can you tell the difference?	[Verb] distinguish or recognize difference	¿Puedes notar la diferencia?
+99A	very	The soup is <b>[...]</b> hot.	The soup is very hot.	[Adverb] to a high degree or emphasizing an adjective	La sopa está muy caliente.
+100A	even	Everyone likes pizza, <b>[...]</b> my dog.	Everyone likes pizza, even my dog.	[Adverb] used to emphasize something surprising or extreme	A todos les gusta la pizza, incluso a mi perro.
+100B	even	Make sure the floor is <b>[...]</b>.	Make sure the floor is even.	[Adjective] flat, smooth or equal in level	Asegúrate de que el piso esté nivelado.

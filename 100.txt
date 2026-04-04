@@ -34,6 +34,7 @@
 17A	do	I usually <b>[...]</b> my homework at night.	I usually do my homework at night.	[Verb] perform an action or task	Usualmente hago mi tarea en la noche.
 17B	do	<b>[...]</b> you like to play soccer?	Do you like to play soccer?	[Auxiliary Verb] forming questions or negations	¿Te gusta jugar al fútbol?
 17C	do	I <b>[...]</b> want to go to the party!	I do want to go to the party!	[Auxiliary Verb] emphasis	¡Sí que quiero ir a la fiesta!
+17D	do	Just <b>[...]</b> your best.	Just do your best.	[Collocation] perform as well as possible	Solo haz tu mejor esfuerzo.
 18A	say	What did she <b>[...]</b> to you?	What did she say to you?	[Verb] speak words or express verbally	¿Qué te dijo ella?
 19A	this	<b>[...]</b> is my favorite song.	This is my favorite song.	[Demonstrative Pronoun] referring to a specific close thing	Esta es mi canción favorita.
 20A	they	My parents are not here, <b>[...]</b> are at work.	My parents are not here, they are at work.	[Pronoun] third person plural subject	Mis padres no están aquí, ellos están en el trabajo.
@@ -63,6 +64,7 @@
 32B	go	Please <b>[...]</b> on, I am listening.	Please go on, I am listening.	[Phrasal Verb] continue an action	Por favor continúa, estoy escuchando.
 32C	go	I am <b>[...]</b> to travel to Japan next year.	I am going to travel to Japan next year.	[Auxiliary Verb] expressing future plans or intentions	Voy a viajar a Japón el próximo año.
 32D	go	I usually <b>[...]</b> out with my friends on Fridays.	I usually go out with my friends on Fridays.	[Phrasal Verb] leave home for a social event	Usualmente salgo con mis amigos los viernes.
+32E	go	Please <b>[...]</b> ahead, I will wait.	Please go ahead, I will wait.	[Phrasal Verb] proceed or start	Por favor, adelante, yo esperaré.
 33A	their	The children are playing with <b>[...]</b> toys.	The children are playing with their toys.	[Possessive Adjective] belonging to them	Los niños están jugando con sus juguetes.
 34A	can	I <b>[...]</b> swim very well.	I can swim very well.	[Modal Verb] expressing ability or capability	Puedo nadar muy bien.
 34B	can	I drank a cold <b>[...]</b> of cola.	I drank a cold can of cola.	[Noun] sealed metal container for food	Bebí una lata fría de cola.
@@ -74,6 +76,8 @@
 36D	get	I explain it, but he doesn't <b>[...]</b> it.	I explain it, but he doesn't get it.	[Verb] understand or comprehend informal	Lo explico, pero él no lo entiende.
 36E	get	I can't <b>[...]</b> used to this cold weather.	I can't get used to this cold weather.	[Verb Phrase] become accustomed to something	No puedo acostumbrarme a este clima frío.
 36F	get	What time do you usually <b>[...]</b> up?	What time do you usually get up?	[Phrasal Verb] rise from bed	¿A qué hora te levantas usualmente?
+36G	get	I <b>[...]</b> along with my sister.	I get along with my sister.	[Phrasal Verb] have a good relationship	Me llevo bien con mi hermana.
+36H	get	It took me a week to <b>[...]</b> over the flu.	It took me a week to get over the flu.	[Phrasal Verb] recover from illness or disappointment	Me tomó una semana recuperarme de la gripe.
 37A	if	<b>[...]</b> it rains, we will stay at home.	If it rains, we will stay at home.	[Conjunction] introducing a conditional clause	Si llueve, nos quedaremos en casa.
 38A	would	I <b>[...]</b> buy a car if I had the money.	I would buy a car if I had the money.	[Modal Verb] expressing conditional or hypothetical situations	Compraría un auto si tuviera el dinero.
 38B	would	When I was a kid, I <b>[...]</b> play outside.	When I was a kid, I would play outside.	[Modal Verb] expressing a past habit	Cuando era niño, solía jugar afuera.
@@ -87,6 +91,7 @@
 42D	make	I'm sorry, I can't <b>[...]</b> it to the party tonight.	I'm sorry, I can't make it to the party tonight.	[Idiom] manage to attend, arrive or succeed	Lo siento, no podré ir (llegar) a la fiesta esta noche.
 42E	make	His explanation doesn't <b>[...]</b> sense to me.	His explanation doesn't make sense to me.	[Idiom] be logical or understandable	Su explicación no tiene sentido para mí.
 42F	make	Please <b>[...]</b> sure the door is locked.	Please make sure the door is locked.	[Collocation] confirm or ensure something	Por favor asegúrate de que la puerta esté cerrada.
+42G	make	I can't <b>[...]</b> up my mind.	I can't make up my mind.	[Idiom] make a decision	No puedo decidirme.
 43A	about	We talked <b>[...]</b> our favorite movies.	We talked about our favorite movies.	[Preposition] concerning or regarding a subject	Hablamos sobre nuestras películas favoritas.
 43B	about	He is <b>[...]</b> ten years old.	He is about ten years old.	[Adverb] approximately or roughly	Él tiene aproximadamente diez años.
 43C	about	Hurry up, the movie is <b>[...]</b> to start!	Hurry up, the movie is about to start!	[Preposition Phrase] on the point of doing something	¡Date prisa, la película está a punto de empezar!
@@ -119,6 +124,8 @@
 59B	take	It <b>[...]</b> 30 minutes to cook this.	It takes 30 minutes to cook this.	[Verb] require or consume time	Toma 30 minutos cocinar esto.
 59C	take	The plane will <b>[...]</b> off in five minutes.	The plane will take off in five minutes.	[Phrasal Verb] depart or leave the ground	El avión despegará en cinco minutos.
 59D	take	Who will <b>[...]</b> care of the dog when you travel?	Who will take care of the dog when you travel?	[Phrasal Verb] look after or provide for someone/something	¿Quién cuidará (se hará cargo) del perro cuando viajes?
+59E	take	The meeting will <b>[...]</b> place tomorrow.	The meeting will take place tomorrow.	[Idiom] occur or happen	La reunión tendrá lugar mañana.
+59F	take	You should <b>[...]</b> advantage of this offer.	You should take advantage of this offer.	[Collocation] make good use of	Deberías aprovechar esta oferta.
 60A	out	I looked <b>[...]</b> the window.	I looked out the window.	[Adverb] moving away from the inside	Miré hacia afuera por la ventana.
 60B	out	The movie turned <b>[...]</b> to be boring.	The movie turned out to be boring.	[Particle] result or end up	La película resultó ser aburrida.
 60C	out	I need to go to the store, we are <b>[...]</b> of milk.	I need to go to the store, we are out of milk.	[Preposition Phrase] having no more of something left	Necesito ir a la tienda, nos quedamos sin leche.
@@ -128,12 +135,15 @@
 62C	just	Take an umbrella, <b>[...]</b> in case it rains.	Take an umbrella, just in case it rains.	[Idiom] as a precaution	Lleva un paraguas, por si acaso llueve.
 63A	see	I can <b>[...]</b> a bird in that tree.	I can see a bird in that tree.	[Verb] perceive with the eyes	Puedo ver un pájaro en ese árbol.
 63B	see	Oh, I <b>[...]</b> what you mean.	Oh, I see what you mean.	[Verb] understand or comprehend a concept	Oh, entiendo lo que quieres decir.
+63C	see	I will <b>[...]</b> you later.	I will see you later.	[Idiom] farewell phrase	Te veré más tarde.
 64A	him	John is a nice guy, I like <b>[...]</b>.	John is a nice guy, I like him.	[Pronoun] third person male object	John es un buen chico, me agrada (él).
 65A	your	Is this <b>[...]</b> jacket or mine?	Is this your jacket or mine?	[Possessive Adjective] belonging to the person being spoken to	¿Es esta tu chaqueta o la mía?
 66A	come	Can you <b>[...]</b> to my house tonight?	Can you come to my house tonight?	[Verb] move toward the speaker or a specified place	¿Puedes venir a mi casa esta noche?
 66B	come	She <b>[...]</b> up with a good idea.	She came up with a good idea.	[Phrasal Verb] think of or produce an idea	A ella se le ocurrió una buena idea.
 66C	come	<b>[...]</b> on, we are going to be late!	Come on, we are going to be late!	[Phrasal Verb] expressing encouragement, hurry, or frustration	¡Vamos (date prisa), vamos a llegar tarde!
 66D	come	When will you <b>[...]</b> back home?	When will you come back home?	[Phrasal Verb] return to a place	¿Cuándo regresarás a casa?
+66E	come	I <b>[...]</b> across an old photo.	I came across an old photo.	[Phrasal Verb] find by chance	Me topé con una foto vieja.
+66F	come	Please <b>[...]</b> in, the door is open.	Please come in, the door is open.	[Phrasal Verb] enter a room or building	Por favor entra, la puerta está abierta.
 67A	could	I <b>[...]</b> swim when I was five.	I could swim when I was five.	[Modal Verb] expressing past ability or possibility	Yo podía nadar cuando tenía cinco años.
 68A	now	I am studying right <b>[...]</b>.	I am studying right now.	[Adverb] at the present time or moment	Estoy estudiando ahora mismo.
 69A	than	A car is faster <b>[...]</b> a bicycle.	A car is faster than a bicycle.	[Conjunction] used to introduce the second element in a comparison	Un auto es más rápido que una bicicleta.
@@ -157,6 +167,8 @@
 81A	look	<b>[...]</b> at that bird!	Look at that bird!	[Verb] direct one's gaze toward someone or something	¡Mira ese pájaro!
 81B	look	You <b>[...]</b> very happy today.	You look very happy today.	[Verb] have a specific appearance or seem	Te ves muy feliz hoy.
 81C	look	I need to <b>[...]</b> for my dog.	I need to look for my dog.	[Phrasal Verb] search or try to find	Necesito buscar a mi perro.
+81D	look	I <b>[...]</b> forward to seeing you.	I look forward to seeing you.	[Phrasal Verb] await eagerly	Espero con ansias verte.
+81E	look	Can you <b>[...]</b> after my dog?	Can you look after my dog?	[Phrasal Verb] take care of	¿Puedes cuidar a mi perro?
 82A	first	January is the <b>[...]</b> month of the year.	January is the first month of the year.	[Adjective] coming before all others in time or order	Enero es el primer mes del año.
 83A	also	She speaks English, and she <b>[...]</b> speaks French.	She speaks English, and she also speaks French.	[Adverb] in addition or similarly	Ella habla inglés, y también habla francés.
 84A	new	I bought a <b>[...]</b> car yesterday.	I bought a new car yesterday.	[Adjective] recently created or acquired; not old	Compré un auto nuevo ayer.
@@ -177,6 +189,7 @@
 92A	thing	What is that <b>[...]</b> on the table?	What is that thing on the table?	[Noun] an inanimate object, concept or abstract entity	¿Qué es esa cosa sobre la mesa?
 93A	give	Can you <b>[...]</b> me a paper?	Can you give me a paper?	[Verb] freely transfer possession or provide	¿Puedes darme un papel?
 93B	give	This game is too hard, I <b>[...]</b> up.	This game is too hard, I give up.	[Phrasal Verb] quit or surrender	Este juego es muy difícil, me rindo.
+93C	give	Please <b>[...]</b> back my pen.	Please give back my pen.	[Phrasal Verb] return something to its owner	Por favor, devuélveme mi bolígrafo.
 94A	many	How <b>[...]</b> brothers do you have?	How many brothers do you have?	[Determiner] a large number of things or people	¿Cuántos hermanos tienes?
 95A	well	He plays the guitar very <b>[...]</b>.	He plays the guitar very well.	[Adverb] in a good, satisfactory or effective way	Él toca la guitarra muy bien.
 95B	well	The farm has a deep <b>[...]</b> for water.	The farm has a deep well for water.	[Noun] a deep hole made to extract water	La granja tiene un pozo profundo para agua.

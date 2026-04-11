@@ -1,14 +1,14 @@
-1A	the	Please give me <b>[...]</b> blue book.	Please give me the blue book.	[Definite Article] specific item	Por favor, dame el libro azul.
-2A	be	I want to <b>[...]</b> a doctor.	I want to be a doctor.	[Verb] exist or live	Quiero ser doctor.
+1A	the	Please give me <b>[...]</b> blue book on the table.	Please give me the blue book on the table.	[Definite Article] specific item	Por favor, dame el libro azul que está en la mesa.
+2A	be	When I grow up, I want to <b>[...]</b> a doctor.	When I grow up, I want to be a doctor.	[Verb] exist or live	Cuando sea grande, quiero ser doctor.
 2B	be	They will <b>[...]</b> playing soccer later.	They will be playing soccer later.	[Auxiliary Verb] continuous tense or passive	Ellos estarán jugando fútbol más tarde.
 2C	be	I <b>[...]</b> very hungry, let's eat.	I am very hungry, let's eat.	[Verb] expressing physical states or age	Tengo mucha hambre, comamos.
 3A	and	I bought apples <b>[...]</b> oranges.	I bought apples and oranges.	[Conjunction] in addition to	Compré manzanas y naranjas.
-4A	of	The color <b>[...]</b> the car is red.	The color of the car is red.	[Preposition] belonging to or possession	El color del auto es rojo.
+4A	of	Paris is the capital <b>[...]</b> France.	Paris is the capital of France.	[Preposition] belonging to or possession	París es la capital de Francia.
 4B	of	This table is made <b>[...]</b> wood.	This table is made of wood.	[Preposition] origin or composition	Esta mesa está hecha de madera.
 5A	a	I have <b>[...]</b> cat and a dog.	I have a cat and a dog.	[Indefinite Article] one non-specific item	Tengo un gato y un perro.
 6A	in	My keys are <b>[...]</b> the box.	My keys are in the box.	[Preposition] location inside	Mis llaves están en la caja.
 6B	in	My birthday is <b>[...]</b> December.	My birthday is in December.	[Preposition] time period	Mi cumpleaños es en diciembre.
-6C	in	I am <b>[...]</b> trouble.	I am in trouble.	[Preposition] state or condition	Estoy en problemas.
+6C	in	Oh no, I am <b>[...]</b> big trouble!	Oh no, I am in big trouble!	[Preposition] state or condition	Oh no, ¡estoy en grandes problemas!
 7A	to	I want to go <b>[...]</b> the park.	I want to go to the park.	[Preposition] direction or destination	Quiero ir al parque.
 7B	to	I need <b>[...]</b> sleep now.	I need to sleep now.	[Particle] infinitive marker	Necesito dormir ahora.
 8A	have	I <b>[...]</b> two brothers.	I have two brothers.	[Verb] possess or own	Tengo dos hermanos.
@@ -30,17 +30,17 @@
 15B	with	I cut the apple <b>[...]</b> a knife.	I cut the apple with a knife.	[Preposition] using a tool or instrument	Corté la manzana con un cuchillo.
 16A	on	The book is <b>[...]</b> the table.	The book is on the table.	[Preposition] resting upon a surface	El libro está sobre la mesa.
 16B	on	I do not work <b>[...]</b> Sundays.	I do not work on Sundays.	[Preposition] indicating days or dates	No trabajo los domingos.
-16C	on	Please turn <b>[...]</b> the TV.	Please turn on the TV.	[Adverb/Particle] causing an electronic device to operate	Por favor, enciende la televisión.
+16C	on	It's dark, please turn <b>[...]</b> the light.	It's dark, please turn on the light.	[Adverb/Particle] causing an electronic device to operate	Está oscuro, por favor enciende la luz.
 17A	do	I usually <b>[...]</b> my homework at night.	I usually do my homework at night.	[Verb] perform an action or task	Usualmente hago mi tarea en la noche.
 17B	do	<b>[...]</b> you like to play soccer?	Do you like to play soccer?	[Auxiliary Verb] forming questions or negations	¿Te gusta jugar al fútbol?
-17C	do	I <b>[...]</b> want to go to the party!	I do want to go to the party!	[Auxiliary Verb] emphasis	¡Sí que quiero ir a la fiesta!
+17C	do	I really <b>[...]</b> want to go to the party!	I really do want to go to the party!	[Auxiliary Verb] emphasis	¡De verdad que sí quiero ir a la fiesta!
 17D	do	Just <b>[...]</b> your best.	Just do your best.	[Collocation] perform as well as possible	Solo haz tu mejor esfuerzo.
 18A	say	What did she <b>[...]</b> to you?	What did she say to you?	[Verb] speak words or express verbally	¿Qué te dijo ella?
 19A	this	<b>[...]</b> is my favorite song.	This is my favorite song.	[Demonstrative Pronoun] referring to a specific close thing	Esta es mi canción favorita.
 20A	they	My parents are not here, <b>[...]</b> are at work.	My parents are not here, they are at work.	[Pronoun] third person plural subject	Mis padres no están aquí, ellos están en el trabajo.
 21A	at	I am waiting <b>[...]</b> the bus stop.	I am waiting at the bus stop.	[Preposition] specific physical location	Estoy esperando en la parada de autobús.
 21B	at	The class starts <b>[...]</b> 8:00 AM.	The class starts at 8:00 AM.	[Preposition] specific point in time	La clase empieza a las 8:00 AM.
-22A	but	I like apples, <b>[...]</b> I don't like bananas.	I like apples, but I don't like bananas.	[Conjunction] introducing a contrast or exception	Me gustan las manzanas, pero no me gustan los plátanos.
+22A	but	I like apples, <b>[...]</b> I hate bananas.	I like apples, but I hate bananas.	[Conjunction] introducing a contrast or exception	Me gustan las manzanas, pero odio los plátanos.
 23A	we	<b>[...]</b> are going to the cinema tonight.	We are going to the cinema tonight.	[Pronoun] first person plural subject	Nosotros vamos al cine esta noche.
 24A	his	John lost <b>[...]</b> keys yesterday.	John lost his keys yesterday.	[Possessive Adjective] belonging to a male	John perdió sus llaves ayer.
 24B	his	This pen is not mine, it is <b>[...]</b>.	This pen is not mine, it is his.	[Pronoun] masculine possessive standalone	Este bolígrafo no es mío, es suyo (de él).
@@ -49,7 +49,7 @@
 27A	by	The picture was drawn <b>[...]</b> my son.	The picture was drawn by my son.	[Preposition] identifying the agent performing an action	El dibujo fue hecho por mi hijo.
 27B	by	I usually go to school <b>[...]</b> bus.	I usually go to school by bus.	[Preposition] method or means of doing something	Usualmente voy a la escuela en autobús.
 27C	by	I need the money <b>[...]</b> tomorrow.	I need the money by tomorrow.	[Preposition] deadline or not later than	Necesito el dinero para mañana.
-27D	by	I learned to play the guitar <b>[...]</b> myself.	I learned to play the guitar by myself.	[Preposition Phrase] doing something alone or without help	Aprendí a tocar la guitarra por mi cuenta (solo).
+27D	by	I learned to play the guitar all <b>[...]</b> myself.	I learned to play the guitar all by myself.	[Preposition Phrase] doing something alone or without help	Aprendí a tocar la guitarra por mi cuenta (yo solo).
 28A	she	<b>[...]</b> is reading a book.	She is reading a book.	[Pronoun] third person female subject	Ella está leyendo un libro.
 29A	or	Do you prefer tea <b>[...]</b> coffee?	Do you prefer tea or coffee?	[Conjunction] linking alternatives or choices	¿Prefieres té o café?
 30A	as	He works <b>[...]</b> a teacher.	He works as a teacher.	[Preposition] in the role or capacity of	Él trabaja como profesor.
@@ -71,7 +71,7 @@
 34C	can	<b>[...]</b> you help me?	Can you help me?	[Modal Verb] polite request or permission	¿Puedes ayudarme?
 35A	who	The boy <b>[...]</b> is running is my son.	The boy who is running is my son.	[Pronoun] referring to a person in questions or clauses	El niño que está corriendo es mi hijo.
 36A	get	I <b>[...]</b> a letter today.	I got a letter today.	[Verb] receive or obtain	Recibí una carta hoy.
-36B	get	Drink water or you will <b>[...]</b> sick.	Drink water or you will get sick.	[Verb] become or transition state	Bebe agua o te enfermarás.
+36B	get	Wear a jacket or you will <b>[...]</b> sick.	Wear a jacket or you will get sick.	[Verb] become or transition state	Ponte una chaqueta o te enfermarás.
 36C	get	I usually <b>[...]</b> home at night.	I usually get home at night.	[Verb] arrive or reach destination	Usualmente llego a casa en la noche.
 36D	get	I explain it, but he doesn't <b>[...]</b> it.	I explain it, but he doesn't get it.	[Verb] understand or comprehend informal	Lo explico, pero él no lo entiende.
 36E	get	I can't <b>[...]</b> used to this cold weather.	I can't get used to this cold weather.	[Verb Phrase] become accustomed to something	No puedo acostumbrarme a este clima frío.
@@ -96,11 +96,11 @@
 43B	about	He is <b>[...]</b> ten years old.	He is about ten years old.	[Adverb] approximately or roughly	Él tiene aproximadamente diez años.
 43C	about	Hurry up, the movie is <b>[...]</b> to start!	Hurry up, the movie is about to start!	[Preposition Phrase] on the point of doing something	¡Date prisa, la película está a punto de empezar!
 44A	know	I don't <b>[...]</b> where the station is.	I don't know where the station is.	[Verb] have information or be aware of	No sé dónde está la estación.
-44B	know	Do you <b>[...]</b> my friend Sarah?	Do you know my friend Sarah?	[Verb] be acquainted with a person	¿Conoces a mi amiga Sarah?
+44B	know	Do you <b>[...]</b> how to swim?	Do you know how to swim?	[Verb] have information or be aware of	¿Sabes nadar?
 45A	will	I <b>[...]</b> call you tomorrow.	I will call you tomorrow.	[Modal Verb] expressing future intention or certainty	Te llamaré mañana.
 45B	will	My grandpa left a house in his <b>[...]</b>.	My grandpa left a house in his will.	[Noun] legal document declaring desires after death	Mi abuelo dejó una casa en su testamento.
 46A	up	Look <b>[...]</b> at the stars.	Look up at the stars.	[Adverb] towards a higher position	Mira hacia arriba a las estrellas.
-46B	up	Eat <b>[...]</b> your food.	Eat up your food.	[Particle] completion of an action	Cómete toda tu comida.
+46B	up	Please wake <b>[...]</b>, it is already 10 AM!	Please wake up, it is already 10 AM!	[Particle] completion of an action or upward movement	Por favor despierta, ¡ya son las 10 AM!
 46C	up	What movie we watch is <b>[...]</b> to you.	What movie we watch is up to you.	[Preposition Phrase] dependent on someone's choice or decision	Qué película veamos depende de ti (es tu decisión).
 47A	one	I have <b>[...]</b> apple and two oranges.	I have one apple and two oranges.	[Number] a single unit or thing	Tengo una manzana y dos naranjas.
 47B	one	I prefer the blue <b>[...]</b>.	I prefer the blue one.	[Pronoun] noun replacement	Prefiero el azul (la de color azul).
@@ -116,7 +116,7 @@
 53A	when	I will text you <b>[...]</b> I arrive.	I will text you when I arrive.	[Conjunction] at or during the time that	Te enviaré un mensaje cuando llegue.
 54A	which	<b>[...]</b> color do you prefer?	Which color do you prefer?	[Pronoun] asking or identifying a specific choice	¿Qué color prefieres?
 55A	them	I like my shoes, I wear <b>[...]</b> every day.	I like my shoes, I wear them every day.	[Pronoun] third person plural object	Me gustan mis zapatos, los uso todos los días.
-56A	some	I need to buy <b>[...]</b> milk.	I need to buy some milk.	[Determiner] an unspecified amount or quantity	Necesito comprar algo de leche.
+56A	some	I am thirsty, I need to buy <b>[...]</b> water.	I am thirsty, I need to buy some water.	[Determiner] an unspecified amount or quantity	Tengo sed, necesito comprar algo de agua.
 56B	some	<b>[...]</b> of the boys are tall.	Some of the boys are tall.	[Pronoun] unspecified portion of a group	Algunos de los chicos son altos.
 57A	me	Please give <b>[...]</b> the water.	Please give me the water.	[Pronoun] first person singular object	Por favor dame el agua.
 58A	people	There are a lot of <b>[...]</b> in the park.	There are a lot of people in the park.	[Noun] human beings in general or plural of person	Hay muchas personas en el parque.
@@ -139,7 +139,7 @@
 64A	him	John is a nice guy, I like <b>[...]</b>.	John is a nice guy, I like him.	[Pronoun] third person male object	John es un buen chico, me agrada (él).
 65A	your	Is this <b>[...]</b> jacket or mine?	Is this your jacket or mine?	[Possessive Adjective] belonging to the person being spoken to	¿Es esta tu chaqueta o la mía?
 66A	come	Can you <b>[...]</b> to my house tonight?	Can you come to my house tonight?	[Verb] move toward the speaker or a specified place	¿Puedes venir a mi casa esta noche?
-66B	come	She <b>[...]</b> up with a good idea.	She came up with a good idea.	[Phrasal Verb] think of or produce an idea	A ella se le ocurrió una buena idea.
+66B	come	How did you <b>[...]</b> up with that idea?	How did you come up with that idea?	[Phrasal Verb] think of or produce an idea	¿Cómo se te ocurrió esa idea?
 66C	come	<b>[...]</b> on, we are going to be late!	Come on, we are going to be late!	[Phrasal Verb] expressing encouragement, hurry, or frustration	¡Vamos (date prisa), vamos a llegar tarde!
 66D	come	When will you <b>[...]</b> back home?	When will you come back home?	[Phrasal Verb] return to a place	¿Cuándo regresarás a casa?
 66E	come	I <b>[...]</b> across an old photo.	I came across an old photo.	[Phrasal Verb] find by chance	Me topé con una foto vieja.
@@ -177,7 +177,7 @@
 86B	day	I work during the <b>[...]</b> and sleep at night.	I work during the day and sleep at night.	[Noun] daylight hours	Trabajo de día y duermo de noche.
 87A	use	Can I <b>[...]</b> your phone?	Can I use your phone?	[Verb] employ or utilize for a specific purpose	¿Puedo usar tu teléfono?
 87B	use	What is the <b>[...]</b> of this tool?	What is the use of this tool?	[Noun] purpose or application	¿Cuál es el uso de esta herramienta?
-87C	use	I <b>[...]</b> to play video games all day when I was a kid.	I used to play video games all day when I was a kid.	[Modal Phrase] expressing a past habit or state	Solía jugar videojuegos todo el día cuando era niño.
+87C	used	I <b>[...]</b> to play video games all day when I was a kid.	I used to play video games all day when I was a kid.	[Modal Phrase] expressing a past habit or state	Solía jugar videojuegos todo el día cuando era niño.
 88A	no	I have <b>[...]</b> money.	I have no money.	[Determiner] not any or indicating zero quantity	No tengo dinero.
 88B	no	The answer is <b>[...]</b>.	The answer is no.	[Noun] refusal or negative answer	La respuesta es no.
 88C	no	<b>[...]</b> way! I don't believe you won the lottery!	No way! I don't believe you won the lottery!	[Idiom] expressing strong disbelief or refusal	¡No puede ser! / ¡De ninguna manera! ¡No creo que ganaste la lotería!
@@ -187,7 +187,7 @@
 90C	find	Did you <b>[...]</b> out what time the flight leaves?	Did you find out what time the flight leaves?	[Phrasal Verb] discover information or learn a fact	¿Averiguaste (te enteraste) a qué hora sale el vuelo?
 91A	here	Come <b>[...]</b> and look at this.	Come here and look at this.	[Adverb] in, at, or to this specific place	Ven aquí y mira esto.
 92A	thing	What is that <b>[...]</b> on the table?	What is that thing on the table?	[Noun] an inanimate object, concept or abstract entity	¿Qué es esa cosa sobre la mesa?
-93A	give	Can you <b>[...]</b> me a paper?	Can you give me a paper?	[Verb] freely transfer possession or provide	¿Puedes darme un papel?
+93A	give	Can you <b>[...]</b> me a hand with these heavy boxes?	Can you give me a hand with these heavy boxes?	[Verb] freely transfer possession or provide help	¿Puedes darme una mano con estas cajas pesadas?
 93B	give	This game is too hard, I <b>[...]</b> up.	This game is too hard, I give up.	[Phrasal Verb] quit or surrender	Este juego es muy difícil, me rindo.
 93C	give	Please <b>[...]</b> back my pen.	Please give back my pen.	[Phrasal Verb] return something to its owner	Por favor, devuélveme mi bolígrafo.
 94A	many	How <b>[...]</b> brothers do you have?	How many brothers do you have?	[Determiner] a large number of things or people	¿Cuántos hermanos tienes?

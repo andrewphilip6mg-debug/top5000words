@@ -1,6 +1,7 @@
 101A	back	I lifted a heavy box, so my <b>[...]</b> hurts.	I lifted a heavy box, so my back hurts.	[Noun] body part	Levanté una caja pesada, así que me duele la espalda.
 101B	back	I forgot my keys, so I must go <b>[...]</b>.	I forgot my keys, so I must go back.	[Adverb] return	Olvidé mis llaves, así que debo regresar.
 101C	back	The front door is locked, so please use the <b>[...]</b> door.	The front door is locked, so please use the back door.	[Adjective] rear	La puerta principal está cerrada, así que por favor usa la puerta trasera.
+101D	back	I agree with the plan, so I will <b>[...]</b> it.	I agree with the plan, so I will back it.	[Verb] support or endorse	Estoy de acuerdo con el plan, así que lo respaldaré.
 102A	any	I don't have <b>[...]</b> money.	I don't have any money.	[Determiner] negative quantity	No tengo nada de dinero.
 102B	any	Take <b>[...]</b> card you like.	Take any card you like.	[Determiner] whichever	Toma cualquier carta que quieras.
 103A	good	The food is tasty, so it is a <b>[...]</b> restaurant.	The food is tasty, so it is a good restaurant.	[Adjective] high quality	La comida es sabrosa, así que es un buen restaurante.
@@ -39,6 +40,7 @@
 118B	still	I am taking a photo, so please stand <b>[...]</b>.	I am taking a photo, so please stand still.	[Adjective] not moving	Estoy tomando una foto, así que por favor quédate quieto.
 119A	try	The problem is hard, but I will <b>[...]</b> to solve it.	The problem is hard, but I will try to solve it.	[Verb] attempt	El problema es difícil, pero intentaré resolverlo.
 119B	try	The soup smells delicious, so I want to <b>[...]</b> it.	The soup smells delicious, so I want to try it.	[Verb] taste or test	La sopa huele deliciosa, así que quiero probarla.
+119C	try	I am not sure I can do it, but I will give it a <b>[...]</b>.	I am not sure I can do it, but I will give it a try.	[Noun] an attempt	No estoy seguro de poder hacerlo, pero haré un intento.
 120A	last	This is the end, so it is the <b>[...]</b> page.	This is the end, so it is the last page.	[Adjective] final	Este es el final, así que es la última página.
 120B	last	The battery is full, so it will <b>[...]</b> ten hours.	The battery is full, so it will last ten hours.	[Verb] endure	La batería está llena, así que durará diez horas.
 120C	last	I saw him <b>[...]</b> Monday.	I saw him last Monday.	[Adjective] previous	Lo vi el lunes pasado.
@@ -76,6 +78,7 @@
 140B	old	I moved to a new city, so I miss my <b>[...]</b> house.	I moved to a new city, so I miss my old house.	[Adjective] former	Me mudé a una ciudad nueva, así que extraño mi antigua casa.
 141A	while	I read <b>[...]</b> you sleep.	I read while you sleep.	[Conjunction] during the time	Yo leo mientras tú duermes.
 141B	while	I am tired, so I will sit here for a <b>[...]</b>.	I am tired, so I will sit here for a while.	[Noun] period of time	Estoy cansado, así que me sentaré aquí por un rato.
+141C	while	My brother likes dogs, <b>[...]</b> I prefer cats.	My brother likes dogs, while I prefer cats.	[Conjunction] whereas or contrast	A mi hermano le gustan los perros, mientras que yo prefiero los gatos.
 142A	mean	I don't know this word, so what does it <b>[...]</b>?	I don't know this word, so what does it mean?	[Verb] signify	No conozco esta palabra, así que ¿qué significa?
 142B	mean	He yells at people, so he is a <b>[...]</b> person.	He yells at people, so he is a mean person.	[Adjective] unkind	Él le grita a la gente, así que es una persona mala.
 142C	mean	I am sorry because I didn't <b>[...]</b> to break the glass.	I am sorry because I didn't mean to break the glass.	[Verb] intend	Lo siento porque no tuve la intención de romper el vaso.
@@ -110,6 +113,7 @@
 161B	hand	I need the salt, so please <b>[...]</b> it to me.	I need the salt, so please hand it to me.	[Verb] give	Necesito la sal, así que por favor pásamela.
 161C	hand	The box is very heavy, so please give me a <b>[...]</b>.	The box is very heavy, so please give me a hand.	[Noun] assistance or help	La caja es muy pesada, así que por favor échame una mano.
 162A	might	It <b>[...]</b> rain tomorrow.	It might rain tomorrow.	[Modal Verb] possibility	Podría llover mañana.
+162B	might	He pushed the heavy door with all his <b>[...]</b>.	He pushed the heavy door with all his might.	[Noun] strength or power	Empujó la pesada puerta con todas sus fuerzas.
 163A	american	The flag has stars, so it is an <b>[...]</b> symbol.	The flag has stars, so it is an american symbol.	[Adjective] from USA	La bandera tiene estrellas, así que es un símbolo estadounidense.
 163B	american	He was born in New York, so he is an <b>[...]</b>.	He was born in New York, so he is an american.	[Noun] person from USA	Él nació en Nueva York, así que es estadounidense.
 164A	show	I bought a new shirt, so I will <b>[...]</b> it to you.	I bought a new shirt, so I will show it to you.	[Verb] display	Compré una camisa nueva, así que te la mostraré.
@@ -117,6 +121,7 @@
 165A	part	A wheel is an important <b>[...]</b> of a car.	A wheel is an important part of a car.	[Noun] piece or section	Una rueda es una parte importante de un auto.
 165B	part	He is an actor, so he got a small <b>[...]</b> in the movie.	He is an actor, so he got a small part in the movie.	[Noun] acting role	Él es actor, así que consiguió un papel pequeño en la película.
 166A	against	They are playing <b>[...]</b> each other.	They are playing against each other.	[Preposition] in opposition to	Están jugando uno contra el otro.
+166B	against	I am tired, so I will lean <b>[...]</b> the wall.	I am tired, so I will lean against the wall.	[Preposition] touching or leaning on	Estoy cansado, así que me apoyaré contra la pared.
 167A	place	The park has trees, so it is a nice <b>[...]</b> to visit.	The park has trees, so it is a nice place to visit.	[Noun] location	El parque tiene árboles, así que es un lugar agradable para visitar.
 167B	place	The glass is fragile, so <b>[...]</b> it carefully on the table.	The glass is fragile, so place it carefully on the table.	[Verb] put	El vaso es frágil, así que colócalo con cuidado en la mesa.
 168A	such	We avoid <b>[...]</b> bad weather.	We avoid such bad weather.	[Determiner] of that kind	Evitamos ese tipo de mal clima.
@@ -136,6 +141,7 @@
 176D	right	I am in a hurry, so I will do it <b>[...]</b> now.	I am in a hurry, so I will do it right now.	[Adverb] immediately	Tengo prisa, así que lo haré ahora mismo.
 176E	right	He stole the money, and that was not <b>[...]</b>.	He stole the money, and that was not right.	[Adjective] morally good or just	Él robó el dinero, y eso no estuvo bien.
 177A	program	I want to watch the news, so I will turn on the television <b>[...]</b>.	I want to watch the news, so I will turn on the television program.	[Noun] planned series of events	Quiero ver las noticias, así que encenderé el programa de televisión.
+177B	program	I am a software engineer, so I <b>[...]</b> computers.	I am a software engineer, so I program computers.	[Verb] write computer code	Soy ingeniero de software, así que programo computadoras.
 178A	hear	The music is loud, so I can <b>[...]</b> it clearly.	The music is loud, so I can hear it clearly.	[Verb] perceive sound	La música está fuerte, así que puedo escucharla claramente.
 179A	question	I am confused, so I will ask the teacher a <b>[...]</b>.	I am confused, so I will ask the teacher a question.	[Noun] inquiry	Estoy confundido, así que le haré una pregunta al profesor.
 179B	question	The police suspect him, so they will <b>[...]</b> him.	The police suspect him, so they will question him.	[Verb] interrogate	La policía sospecha de él, así que lo interrogarán.
@@ -149,6 +155,7 @@
 183B	run	My father owns a bakery, so he must <b>[...]</b> the business.	My father owns a bakery, so he must run the business.	[Verb] manage	Mi padre tiene una panadería, así que debe administrar el negocio.
 183C	run	The river is big, so the water will <b>[...]</b> through the valley.	The river is big, so the water will run through the valley.	[Verb] flow	El río es grande, así que el agua fluirá por el valle.
 183D	run	The machine is ready, so I need to <b>[...]</b> a test.	The machine is ready, so I need to run a test.	[Verb] operate or execute	La máquina está lista, así que necesito ejecutar una prueba.
+183E	run	I want to exercise, so I will go for a <b>[...]</b>.	I want to exercise, so I will go for a run.	[Noun] running exercise	Quiero hacer ejercicio, así que iré a correr.
 184A	small	A mouse is very little, so it is a <b>[...]</b> animal.	A mouse is very little, so it is a small animal.	[Adjective] little size	Un ratón es muy pequeño, así que es un animal pequeño.
 184B	small	Don't worry about it because it is just a <b>[...]</b> detail.	Don't worry about it because it is just a small detail.	[Adjective] unimportant	No te preocupes por eso porque es solo un pequeño detalle.
 185A	number	Seven is my favorite lucky <b>[...]</b>.	Seven is my favorite lucky number.	[Noun] quantity	El siete es mi número de la suerte favorito.

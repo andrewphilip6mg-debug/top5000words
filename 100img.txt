@@ -1,0 +1,205 @@
+(1A) A eager smiling student extending his hand in a sunlit school library, clutching a neon-blue book that glows against warm wooden shelves.
+(2A) A compassionate determined teenager pretending to be a doctor in a bright hospital room, pressing a shiny stethoscope to a teddy bear with a proud hopeful grin.
+(2B) A joyful energetic group of kids playing soccer in a vivid green field at sunset, kicking a glowing orange ball with laughing faces.
+(2C) A famished tired young woman clutching her growling stomach in a bright morning kitchen, staring mournfully at an empty white plate.
+(3A) A cheerful smiling shopper holding groceries in a colorful market stall, balancing shiny red apples in one hand and bright oranges in the other.
+(4A) A amazed excited tourist pointing in front of the Eiffel Tower in Paris, holding a giant glowing map of France with a bold red capital star.
+(4B) A proud focused carpenter sanding in a dusty workshop, revealing rich golden wood grain on a sturdy handmade table under warm spotlight.
+(5A) A delighted giggling child hugging in a cozy living room, cuddling a fluffy gray tabby cat with bright green eyes.
+(6A) A relieved surprised woman opening in a cluttered entryway, finding shiny silver keys inside a small bright red wooden box.
+(6B) A joyful shivering child celebrating in a snowy December living room, wearing a party hat beside a glittering Christmas tree and birthday cake with frosty breath.
+(6C) A anxious guilty teenager standing in a principal's office, slouching with wide worried eyes under harsh fluorescent light, hands behind back.
+(7A) A hopeful eager boy pointing in a city sidewalk, tugging his mother's sleeve toward a bright green park with swings glowing in sunlight.
+(7B) A exhausted droopy-eyed office worker yawning in a dim bedroom, collapsing onto a fluffy pillow with heavy eyelids under soft blue moonlight.
+(8A) A proud happy boy posing in a lively living room, flanked by two laughing brothers giving piggyback rides under warm golden lamp light.
+(8B) A satisfied greasy-fingered teenager sitting in a pizzeria booth, pushing away an empty pizza plate with a full belly grin and tomato sauce on chin.
+(8C) A stern annoyed mother pointing in a messy teenage bedroom, ordering a sulking kid to hold a broom surrounded by scattered clothes under harsh daylight.
+(8D) A bright-eyed cheerful woman eating in a sunny kitchen at 8 AM, happily spreading jam on toast while a big wall clock shows eight.
+(9A) A frustrated confused man searching in a messy bedroom, crawling under bed and lifting pillows with a panicked frown, losing a small remote.
+(9B) A shivering bundled-up commuter standing in a snowy street, hugging himself with red nose and frosty breath under pale gray sky.
+(10A) A content proud young woman waving in a bustling city balcony, overlooking neon skyscrapers and yellow taxis with a bright smile.
+(11A) A amazed wide-eyed child pointing in a sunny park, staring up at a vivid blue jay perched on a distant branch.
+(11B) A triumphant grinning man posing in a dealership lot, proudly patting a shiny cherry-red car with a giant bow on hood.
+(11C) A utterly exhausted construction worker collapsing in a break room chair, instantly snoring with mouth open and hard hat tilted.
+(11D) A humbled nodding student admitting in a classroom debate, raising hands in surrender with respectful relieved smile toward teacher.
+(12A) A loving beaming girlfriend offering in a cozy living room, handing a brightly wrapped gift with sparkling gold ribbon to surprised partner.
+(12B) A nostalgic wistful woman standing in front of a small brick house, holding up five fingers with a bittersweet smile under autumn leaves.
+(13A) A curious caring friend leaning in a coffee shop, asking with soft concerned eyes while the other person beams with a huge joyful grin.
+(14A) A loyal cheerful teenage boy slinging arm around in a school hallway, grinning proudly beside his best friend with matching backpacks.
+(15A) A joyful laughing jogger running in a sunny park trail, holding leash as a happy golden retriever bounds beside him with tongue out.
+(15B) A focused careful cook slicing in a bright kitchen, cutting a crisp red apple with a shiny steel knife on wooden board.
+(16A) A tidy studious student arranging in a study room, placing a thick green textbook squarely on a polished oak table under lamp light.
+(16B) A relaxed smug barista lounging in a hammock on Sunday morning, sipping coffee with feet up while a closed shop sign glows behind.
+(16C) A nervous squinting child standing in a pitch-black bedroom, fumbling for a bright wall switch that floods room with warm yellow light.
+(17A) A determined tired teenager working in a dim bedroom at night, scribbling homework under a desk lamp with dark circles and yawning.
+(17B) A inquisitive smiling coach asking on a grass field, holding a black-and-white soccer ball toward a shy kid with hopeful eyebrows raised.
+(17C) A pleading earnest girl begging in a front doorway, clasping hands together with wide desperate eyes and bouncing on toes.
+(17D) A supportive calm father encouraging in a kitchen before school, patting his nervous son's shoulder while pointing to a tough math test with gentle smile.
+(18A) A confused cupping-ear teenager leaning in a noisy cafeteria, frowning with puzzled expression asking friend to repeat.
+(19A) A ecstatic dancing girl pointing in a bedroom, beaming as her favorite song blasts from glowing pink speakers with hands on chest.
+(20A) A busy focused office team typing in a modern glass workplace, wearing headsets and serious expressions under bright fluorescent lights.
+(21A) A impatient bored commuter standing in drizzling rain at a bus stop, checking watch with slumped shoulders under a yellow shelter.
+(21B) A sleepy yawning student rushing in a school hallway, glancing at a giant clock showing 8 AM with backpack half-zipped.
+(22A) A fierce proud small boy flexing in a gym, lifting a surprisingly heavy dumbbell with determined grin while taller kids watch amazed.
+(23A) A relieved tired family walking in a sunset suburb, holding hands and smiling toward a warm-lit house with suitcases rolling.
+(24A) A panicked frustrated John patting in a parking lot, emptying pockets with wide eyes as silver keys lie glittering under his car.
+(24B) A honest smiling classmate returning in a classroom, handing a blue pen back to a relieved boy pointing to his name tag.
+(25A) A proud beaming young man standing in a plaza, holding a waving Mexican flag with vibrant green white red colors against pyramids backdrop.
+(26A) A defiant energetic child protesting in pajamas at bedtime, jumping on bed with wide awake eyes and stubborn grin while parents yawn.
+(27A) A glowing proud father showing in a living room, holding up a crayon drawing of a house signed by his smiling little son beside him.
+(27B) A cheerful sleepy student boarding in early morning, climbing steps onto a bright yellow school bus with backpack bouncing.
+(27C) A urgent anxious freelancer pleading in a coffee shop, tapping a calendar marked tomorrow with desperate wide eyes.
+(27D) A triumphant solitary teenager practicing in a garage, strumming guitar alone with focused proud smile and no teacher around.
+(28A) A calm absorbed girl sitting in a window nook, reading a thick novel with soft focused eyes and peaceful smile in golden light.
+(29A) A friendly curious barista asking in a cozy café, holding a steaming tea cup in one hand and dark coffee in the other with raised eyebrows.
+(30A) A enthusiastic patient man teaching in a bright classroom, writing on whiteboard as a teacher with glasses and warm encouraging smile.
+(30B) A competitive smirking neighbor comparing in a suburban street, standing between two identical huge houses holding a measuring tape.
+(30C) A surprised delighted walker strolling in a park path, suddenly spotting a fluffy brown dog trotting beside him with sudden joy.
+(30D) A cozy content couple cuddling in a living room, watching heavy rain pound windows while staying home with hot cocoa and blankets.
+(30E) A agreeable nodding friend sitting in a tea shop, raising a porcelain teacup with warm smile mirroring the other person.
+(31A) A curious friendly newcomer asking in a schoolyard, extending hand with bright inquisitive eyes toward a shy kid.
+(31B) A astonished jaw-dropped teenager watching on a racetrack, pointing at a blazing red sports car streaking past with motion blur.
+(31C) A hopeful excited friend suggesting in a living room, holding up movie tickets with pleading eyebrows and playful grin.
+(32A) A worried hungry roommate standing in an empty fridge kitchen, grabbing keys to go to a bright grocery store with determined frown.
+(32B) A encouraging attentive listener leaning in a library table, gesturing with open hand for shy storyteller to continue with supportive smile.
+(32C) A thrilled adventurous backpacker standing in an airport terminal, rolling suitcase and holding passport with sparkling eyes.
+(32D) A ecstatic laughing group exiting in a neon-lit Friday night street, heading out to club with arms around shoulders.
+(32E) A apologetic flustered girl waving in a hallway, gesturing friends to go ahead while tying shoe with embarrassed smile.
+(33A) A giggling delighted group of children playing in a colorful playroom, clutching their own bright plastic toys with possessive joy.
+(34A) A confident proud swimmer gliding in a sparkling blue pool, doing perfect freestyle with triumphant smile and splashing water.
+(34B) A parched relieved man gulping in a desert-hot street, cracking open a frosty red cola can with condensation dripping.
+(34C) A helpless pleading student asking in a classroom, holding heavy books with desperate wide eyes toward teacher.
+(35A) A proud beaming mother pointing on a soccer sideline, identifying her son who is sprinting fast in bright jersey.
+(36A) A overjoyed surprised birthday girl opening in a decorated living room, receiving a nicely wrapped gift with sparkling eyes.
+(36B) A stern caring mother warning in a snowy doorway, forcing a shivering teen to wear a puffy jacket with worried frown.
+(36C) A weary exhausted office worker arriving in a dark driveway at night, unlocking front door under porch light with slumped shoulders.
+(36D) A baffled frustrated student staring in a classroom, scratching head at a complex equation on board with confused squint.
+(36E) A miserable shivering newcomer standing in icy wind, hugging coat unable to adapt, with chattering teeth and red cheeks.
+(36F) A groggy determined alarm-clock hitter rising in a dark bedroom, forcing himself out of bed at 6 AM with sleepy scowl.
+(36G) A warm laughing siblings pair hugging in a sunny kitchen, getting along perfectly while baking cookies together.
+(36H) A relieved recovering patient celebrating in a bright bedroom, throwing thermometer away after getting over flu with triumphant smile.
+(37A) A cautious thoughtful couple watching in a living room window, deciding to stay home as dark rain clouds loom outside.
+(38A) A dreamy wistful young adult imagining in a car showroom, pointing at sleek vehicle with hypothetical hopeful grin.
+(38B) A nostalgic smiling older man remembering in a backyard, recalling how he used to play outside as a boy with a faded baseball.
+(39A) A devoted loving boyfriend smiling in a bedroom at night, calling his girlfriend on phone daily with warm affectionate eyes.
+(39B) A chilly hurried woman dressing in a winter entryway, putting on her long red coat with focused determined motion.
+(40A) A exuberant chaotic playground full in a sunny park, where all the kids are playing tag laughing with bright clothes.
+(41A) A proud delighted artist declaring in a studio, holding up a vivid cobalt blue paint swatch against chest with beaming smile.
+(42A) A loving focused baker preparing in a home kitchen, making a tall chocolate birthday cake with pink frosting for tomorrow.
+(42B) A tearful sobbing viewer watching in a dark living room, crying uncontrollably as sad movie plays with tissues scattered.
+(42C) A nervous lying student improvising in front of class, making up a story with shifty eyes and sweaty forehead while holding unopened book.
+(42D) A regretful overworked employee apologizing in a cluttered office, declining party invitation on phone with sad sigh and piles of papers.
+(42E) A confused overwhelmed class sitting in a lecture hall, staring blankly as fast-talking teacher blurs words on board with nonsense symbols.
+(42F) A vigilant worried mother checking in a dim hallway at night, making sure the heavy deadbolt is locked with stern protective eyes.
+(42G) A indecisive frustrated shopper standing in a fitting room, holding two shirts unable to choose with tortured pout.
+(43A) A animated enthusiastic friends chatting in a cozy café, talking about movies while gesturing at film posters on wall.
+(43B) A approximate guessing teacher estimating in a classroom, pointing to a boy about ten years old holding up ten fingers with uncertain smile.
+(43C) A anticipatory excited audience sitting in a dark theater, watching countdown as movie is about to start with glowing screen.
+(44A) A lost bewildered tourist standing in a foreign city square, shrugging with map upside down and confused frown asking for station.
+(44B) A concerned cautious friend asking at poolside, pointing to deep blue water while the other hesitates with nervous gulp.
+(45A) A reassuring promising woman waving in a doorway at night, mouthing I will call you tomorrow with warm confident smile.
+(45B) A solemn respectful lawyer reading in a wood-paneled office, presenting grandpa's will document that bequeaths a small house.
+(46A) A wonderstruck dreamy child lying in a grassy field at night, looking up at brilliant stars with mouth open in awe.
+(46B) A urgent annoyed mother shaking in a bright morning bedroom, shouting wake up at a teenager buried under blankets.
+(46C) A neutral supportive friend shrugging in a decision crossroads, handing two paths with open palms and calm empowering smile.
+(47A) A simple proud child holding in a kitchen, showing exactly one shiny red apple in palm with delighted grin.
+(47B) A decisive choosy shopper pointing in a clothing store, selecting the blue t-shirt among colors with satisfied nod.
+(48A) A flustered watchless commuter asking in a busy station, tapping empty wrist with anxious raised eyebrows.
+(48B) A hurried punctual couple sprinting in a train station, racing to arrive on time as departure board flashes five minutes.
+(49A) A excited pointing hiker gesturing on a hill, directing friend to look at a lone massive oak tree over there in distance.
+(49B) A surprised delighted girl crouching in a living room, discovering there is a fluffy dog here wagging tail under table.
+(50A) A joyful annual celebrant blowing in a party room, celebrating birthday once every year with cake and one candle lit.
+(51A) A ecstatic beaming woman jumping in a sunny meadow, arms wide screaming so happy with tears of joy.
+(51B) A pale miserable patient resting in bed with thermometer, staying home sick while clutching blanket and tissues.
+(51C) A mirroring enthusiastic duo eating in a pizzeria, both loving pizza and giving thumbs up with cheesy smiles.
+(52A) A worried observant farmer thinking on a porch, studying very dark stormy sky and predicting rain with furrowed brow.
+(53A) A responsible promising traveler texting in a car, holding phone to send message when I arrive with reassuring smile.
+(54A) A helpful inquisitive paint store clerk asking in a colorful aisle, holding up swatches asking which color with curious tilt.
+(55A) A habitual proud sneakerhead lacing in a bedroom, wearing same bright white sneakers every day with confident grin.
+(56A) A thirsty dehydrated runner entering in a convenience store, needing to buy some bottles of clear water with desperate reach.
+(56B) A observant coach scanning on a basketball court, noticing some of the boys are tall standing head above others with selective pointing.
+(57A) A parched pleading hiker begging in a desert trail, extending hand asking please give me the water bottle with cracked lips.
+(58A) A overwhelmed awestruck fan standing in a packed stadium, surrounded by a lot of people cheering at a famous concert with neon lights.
+(59A) A caring nagging mother reminding in a rainy doorway, handing a bright yellow umbrella to take before stepping out.
+(59B) A weary road-tripping driver sighing in a car, watching dashboard clock showing three hours to drive to distant city skyline.
+(59C) A nervous excited passenger buckling in an airplane cabin, gripping armrest as plane prepares to take off soon with runway lights.
+(59D) A grateful relieved traveler hugging in an airport, entrusting his happy golden retriever to his caring mother who will take care.
+(59E) A organized serious manager scheduling in a conference room, pointing to calendar where meeting will take place tomorrow.
+(59F) A savvy excited shopper grabbing in a shoe store, urging friend to take advantage of bright red sale tags on cheap sneakers.
+(60A) A curious wistful child peering in a rainy classroom, looking out the window at gray clouds with chin on sill.
+(60B) A disappointed slouching viewer yawning in a dark theater, realizing movie turned out boring with drooping eyelids.
+(60C) A frustrated morning person staring in an empty fridge, finding we are out of milk with empty carton upside down.
+(61A) A careful steady-handed barista pouring in a bright café, putting clear water into a glass cup with precise stream.
+(62A) A satisfied full-bellied worker pushing in an office break room, having just finished lunch with empty plate and contented sigh.
+(62B) A humble modest teenager shrugging in a university hallway, declaring I am just a student with self-deprecating smile and backpack.
+(62C) A cautious prepared commuter grabbing in a doorway, taking umbrella just in case under ominous dark sky.
+(63A) A squinting frustrated student straining in a classroom, unable to see blurry whiteboard without glasses with helpless frown.
+(63B) A enlightened relieved learner nodding in a tutoring session, suddenly seeing the concept with bright aha eyes and wide smile.
+(63C) A friendly waving friend departing on a sunny street, saying see you later with warm goodbye smile and hand raised.
+(64A) A shy blushing teenage girl confessing in a school corridor, glancing admiringly at a boy she likes with soft smile.
+(65A) A helpful puzzled classmate holding in a locker room, lifting a blue jacket asking is this your with raised eyebrows.
+(66A) A inviting excited host beckoning in a decorated doorway, pleading please come to my house tonight for party with sparkling lights.
+(66B) A brilliant triumphant engineer presenting in a lab, having come up with a great solution on whiteboard with proud grin.
+(66C) A impatient hurried friend urging in a cinema lobby, shouting come on with frantic waving as clock ticks.
+(66D) A lonely tearful partner pleading on video call at night, begging please come back home soon with aching longing eyes.
+(66E) A surprised nostalgic cleaner kneeling in a dusty attic, having come across a faded old photo with amazed tender smile.
+(66F) A welcoming shivering hostess ushering in a snowy porch, urging guest to come in and close door with warm inviting gesture.
+(67A) A proud nostalgic adult remembering at a pool, recalling how he could swim when five showing tiny kid splashing confidently.
+(68A) A focused intense university student studying in a library cubicle right now, surrounded by books with furrowed brow under lamp.
+(69A) A competitive smirking race scene on a road, showing a sleek car zooming faster than a struggling cyclist with speed lines.
+(70A) A passionate joyful kid dribbling on a grass field, really liking playing soccer with huge grin and muddy knees.
+(70B) A amused family gathering comparing in a living room, noticing son looks exactly like his father with matching beards and mirrored pose.
+(70C) A healthy cheerful eater munching in a kitchen, eating fruit like crisp red apples with example bowl overflowing.
+(71A) A bewildered hopping person searching in a messy hallway, holding one shoe and desperately looking for the other with confused frown.
+(72A) A curious eager home cook asking in a steamy kitchen, watching pot and wondering how do you make this soup with inquisitive eyes.
+(72B) A friendly inquisitive neighbor crouching in a park, petting puppy and asking how old with curious smile.
+(73A) A content relaxed couple transitioning in a cozy living room, having just ate dinner then watching TV with full bellies on couch.
+(74A) A playful energetic golden retriever chewing in a sunny backyard, happily playing with its squeaky red toy.
+(75A) A proud united family posing in front yard, declaring this is our house with arms wide and beaming smiles at cozy home.
+(76A) A silly goofy child pointing in a bathroom mirror, proudly showing I have two eyes with exaggerated wide open stare.
+(77A) A ravenous unsatisfied teenager staring in a dining room, rubbing belly wanting more food with pleading hungry eyes at empty plate.
+(78A) A disappointed frustrated shopper trying in a store, squeezing feet into these tiny shoes that are clearly small with pained grimace.
+(79A) A starving drooling man fantasizing in a diner, intensely wanting to eat a giant juicy burger with wide craving eyes.
+(80A) A perplexed stuck student pondering in a classroom, asking what is the best way to solve hard math problem with tangled equations on board.
+(80B) A anxious lost tourist pleading on a crowded street, holding map upside down asking local to show the way to hotel.
+(80C) A shocked dismayed couple gawking in a real estate office, staring at price tag for house that is way too expensive with jaw drop.
+(80D) A focused reassuring commuter talking in a car interior, hands on wheel declaring I am already on my way with traffic lights blurred.
+(81A) A awe-inspired nature lover pointing on a hilltop, urging friend to look at a soaring eagle against beautiful sunset sky.
+(81B) A observant warm friend noticing in a coffee shop, commenting you look very happy today at beaming companion with radiant smile.
+(81C) A frantic anxious homeowner searching in a messy living room, crawling to look for lost keys under couch cushions.
+(81D) A longing hopeful girlfriend writing in a bedroom at night, smiling tearfully as she says I look forward to seeing you on video call.
+(81E) A trusting pleading traveler asking in an airport, requesting neighbor to look after his excited beagle with leash outstretched.
+(82A) A cheerful teacher pointing in a bright classroom, showing calendar where January is highlighted as the first month with big number one.
+(83A) A talented confident polyglot woman chatting in a café, switching between English and also French with flags behind her and proud smile.
+(84A) A excited relieved buyer unboxing in a bedroom, proudly holding a shiny new phone after old cracked one lies broken beside.
+(85A) A exhausted droopy-eyed worker explaining in an office, yawning because he slept little with dark circles under eyes.
+(86A) A weary counting student tallying on a classroom wall, marking seven days to show week is long with tired sigh.
+(86B) A rhythmic balanced farmer laboring in a sunny field during day, then contrasting with same man sleeping peacefully at night under moon.
+(87A) A desperate apologetic commuter asking in a bus station, holding dead phone asking can I use your phone with pleading eyes.
+(87B) A confused puzzled DIYer examining in a garage, holding strange tool and asking what is the use with furrowed brow.
+(87C) A nostalgic wistful adult reminiscing in a living room, remembering how he used to play video games with old console in hands.
+(88A) A broke dejected student showing in a store checkout, turning empty pockets inside out with sad frown showing no money.
+(88B) A firm resolute judge declaring in a courtroom, sternly mouthing the answer is no with decisive hand gesture.
+(88C) A skeptical disbelieving friend scoffing in a living room, shouting there is no way with arms crossed and eye roll.
+(89A) A proud identifying niece pointing at a family reunion, recognizing that tall bearded man with deep voice as my uncle.
+(90A) A frustrated overwhelmed teenager digging in a chaotic messy bedroom, unable to find socks buried under clothes mountain.
+(90B) A delighted laughing player discovering in a game night, finding this board game very fun with easy rules and bright smile.
+(90C) A anxious organized traveler checking in a kitchen, asking partner did you find out flight time while holding suitcases.
+(91A) A stern commanding parent beckoning in a hallway, ordering child to come here right now with pointed finger and serious glare.
+(92A) A puzzled curious child staring in a science lab, pointing at a strange metallic thing on the table with confused frown.
+(93A) A straining sweaty mover struggling in a driveway, asking friend can you give me a hand lifting heavy boxes with pleading grimace.
+(93B) A defeated exasperated gamer throwing in a bedroom, tossing controller and shouting I give up with hands raised in surrender.
+(93C) A annoyed assertive student demanding in a classroom, reaching out please give it back for his stolen pen with stern eyes.
+(94A) A inquisitive friendly interviewer asking on a park bench, counting on fingers asking how many brothers with curious tilt.
+(95A) A skilled confident guitarist performing on a small stage, playing very well after daily practice with focused joyful expression.
+(95B) A resourceful determined farmer drawing in a dry field, lowering bucket into a deep stone well for water under harsh sun.
+(95C) A hesitant uncertain teenager shrugging in a classroom, mumbling well I don't know with awkward half-smile and raised shoulders.
+(95D) A sickly pale patient lying in bed with thermometer, feeling unwell today with flushed cheeks and miserable frown.
+(96A) A broke apologetic buyer counting in a corner store, showing palm with only five crumpled dollar bills and sheepish grin.
+(97A) A excited birdwatcher pointing on a lakeside, urging friend to look at those distant birds flying in V-formation at sunset.
+(98A) A pleading weary babysitter begging in a playroom, asking grandfather to tell bored children a story as kids slump with droopy faces.
+(98B) A confused squinting teacher staring in a school hallway, unable to tell the difference between identical twins with frustrated head tilt.
+(99A) A startled wincing diner tasting in a restaurant, blowing on spoon as very hot soup steams with burned tongue expression.
+(100A) A amused laughing owner feeding in a kitchen, watching even my drooling dog beg for pizza slice with everyone cheering.
+(100B) A meticulous frustrated carpenter leveling in a workshop, checking with spirit level to make sure floor is even as wobbly table shakes.
+(100C) A patient encouraging math teacher explaining on a chalkboard, circling two and four as even numbers that divide by two with bright visual counters.

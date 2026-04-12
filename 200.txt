@@ -1,93 +1,93 @@
 101A	back	I lifted a heavy box, so my <b>[...]</b> hurts.	I lifted a heavy box, so my back hurts.	[Noun] body part	Levanté una caja pesada, así que me duele la espalda.
 101B	back	I forgot my keys, so I must go <b>[...]</b>.	I forgot my keys, so I must go back.	[Adverb] return	Olvidé mis llaves, así que debo regresar.
-101C	back	Please use the <b>[...]</b> door.	Please use the back door.	[Adjective] rear	Por favor usa la puerta trasera.
+101C	back	The front door is locked, so please use the <b>[...]</b> door.	The front door is locked, so please use the back door.	[Adjective] rear	La puerta principal está cerrada, así que por favor usa la puerta trasera.
 102A	any	I don't have <b>[...]</b> money.	I don't have any money.	[Determiner] negative quantity	No tengo nada de dinero.
 102B	any	Take <b>[...]</b> card you like.	Take any card you like.	[Determiner] whichever	Toma cualquier carta que quieras.
 103A	good	The food is tasty, so it is a <b>[...]</b> restaurant.	The food is tasty, so it is a good restaurant.	[Adjective] high quality	La comida es sabrosa, así que es un buen restaurante.
 103B	good	He helps everyone, so he is a <b>[...]</b> person.	He helps everyone, so he is a good person.	[Adjective] morally right	Él ayuda a todos, así que es una buena persona.
-103C	good	The truck is carrying <b>[...]</b> to the store.	The truck is carrying goods to the store.	[Noun] merchandise	El camión transporta mercancías a la tienda.
+103C	good	The store is empty because the truck didn't bring the <b>[...]</b>.	The store is empty because the truck didn't bring the goods.	[Noun] merchandise	La tienda está vacía porque el camión no trajo las mercancías.
 104A	woman	The man wears a suit, and the <b>[...]</b> wears a dress.	The man wears a suit, and the woman wears a dress.	[Noun] adult female	El hombre usa traje y la mujer usa vestido.
 105A	through	The train went <b>[...]</b> the tunnel.	The train went through the tunnel.	[Preposition] moving inside and out	El tren pasó por el túnel.
-105B	through	I am <b>[...]</b> with my homework.	I am through with my homework.	[Adjective] finished or completed	He terminado con mi tarea.
+105B	through	I finished the last page, so I am <b>[...]</b> with my homework.	I finished the last page, so I am through with my homework.	[Adjective] finished or completed	Terminé la última página, así que he acabado con mi tarea.
 106A	us	The teacher gave <b>[...]</b> homework.	The teacher gave us homework.	[Pronoun] object form of we	El profesor nos dio tarea.
 107A	life	He eats well, so he has a healthy <b>[...]</b>.	He eats well, so he has a healthy life.	[Noun] existence	Él come bien, así que tiene una vida saludable.
 108A	child	The adult drinks coffee, but the <b>[...]</b> drinks milk.	The adult drinks coffee, but the child drinks milk.	[Noun] young human	El adulto bebe café, pero el niño bebe leche.
-108B	child	He is my only <b>[...]</b>.	He is my only child.	[Noun] son or daughter	Él es mi único hijo.
+108B	child	He has no brothers or sisters, so he is an only <b>[...]</b>.	He has no brothers or sisters, so he is an only child.	[Noun] son or daughter	Él no tiene hermanos ni hermanas, así que es hijo único.
 109A	work	I need money, so I must <b>[...]</b>.	I need money, so I must work.	[Verb] perform labor	Necesito dinero, así que debo trabajar.
 109B	work	I am tired because I have a lot of <b>[...]</b>.	I am tired because I have a lot of work.	[Noun] job or tasks	Estoy cansado porque tengo mucho trabajo.
-109C	work	My phone is broken, it doesn't <b>[...]</b>.	My phone is broken, it doesn't work.	[Verb] function	Mi teléfono está roto, no funciona.
-109D	work	This painting is a <b>[...]</b> of art.	This painting is a work of art.	[Noun] creation or masterpiece	Esta pintura es una obra de arte.
+109C	work	My phone is broken, so it doesn't <b>[...]</b>.	My phone is broken, it doesn't work.	[Verb] function	Mi teléfono está roto, no funciona.
+109D	work	The artist is famous, so this painting is a <b>[...]</b> of art.	This painting is a work of art.	[Noun] creation or masterpiece	El artista es famoso, así que esta pintura es una obra de arte.
 110A	down	Please sit <b>[...]</b>.	Please sit down.	[Adverb] lower position	Por favor siéntate.
 110B	down	I failed the test, so I feel <b>[...]</b>.	I failed the test, so I feel down.	[Adjective] sad or depressed	Reprobé el examen, así que me siento deprimido.
-110C	down	Walk <b>[...]</b> the street until you see the bank.	Walk down the street until you see the bank.	[Preposition] along or further along	Camina por la calle hasta que veas el banco.
+110C	down	Walk <b>[...]</b> the street.	Walk down the street.	[Preposition] along	Camina por la calle.
 111A	may	It <b>[...]</b> rain today.	It may rain today.	[Modal Verb] possibility	Puede que llueva hoy.
 111B	may	<b>[...]</b> I go to the bathroom?	May I go to the bathroom?	[Modal Verb] permission	¿Puedo ir al baño?
 112A	after	Wash your hands <b>[...]</b> lunch.	Wash your hands after lunch.	[Preposition] following in time	Lávate las manos después del almuerzo.
 113A	should	You <b>[...]</b> see a doctor.	You should see a doctor.	[Modal Verb] advice	Deberías ver a un médico.
-113B	should	He left an hour ago, so he <b>[...]</b> be here soon.	He left an hour ago, so he should be here soon.	[Modal Verb] probability	Él salió hace una hora, así que debería estar aquí pronto.
+113B	should	He left an hour ago, so he <b>[...]</b> be here now.	He left an hour ago, so he should be here now.	[Modal Verb] probability	Salió hace una hora, así que debería estar aquí ahora.
 114A	call	I want to speak to my mom, so I will <b>[...]</b> her.	I want to speak to my mom, so I will call her.	[Verb] telephone someone	Quiero hablar con mi mamá, así que la llamaré.
 114B	call	My dog is brown, so I <b>[...]</b> him Chocolate.	My dog is brown, so I call him Chocolate.	[Verb] give a name	Mi perro es marrón, así que lo llamo Chocolate.
 114C	call	I missed your phone <b>[...]</b> yesterday.	I missed your phone call yesterday.	[Noun] telephone conversation	Perdí tu llamada telefónica ayer.
 115A	world	The planet Earth is a very big <b>[...]</b>.	The planet Earth is a very big world.	[Noun] earth and society	El planeta Tierra es un mundo muy grande.
 116A	over	The bird flew <b>[...]</b> the tree.	The bird flew over the tree.	[Preposition] above	El pájaro voló sobre el árbol.
 116B	over	The movie is <b>[...]</b>.	The movie is over.	[Adverb] finished	La película ha terminado.
-116C	over	There were <b>[...]</b> fifty people at the party.	There were over fifty people at the party.	[Preposition] more than	Había más de cincuenta personas en la fiesta.
-116D	over	We can discuss the plan <b>[...]</b> dinner.	We can discuss the plan over dinner.	[Preposition] during while eating	Podemos discutir el plan durante la cena.
+116C	over	There were <b>[...]</b> fifty people.	There were over fifty people.	[Preposition] more than	Había más de cincuenta personas.
+116D	over	We can talk <b>[...]</b> dinner.	We can talk over dinner.	[Preposition] during while eating	Podemos hablar durante la cena.
 117A	school	Children want to learn, so they go to <b>[...]</b>.	Children want to learn, so they go to school.	[Noun] educational place	Los niños quieren aprender, así que van a la escuela.
-117B	school	She studies at the medical <b>[...]</b>.	She studies at the medical school.	[Noun] university department	Ella estudia en la facultad de medicina.
+117B	school	She wants to be a doctor, so she is in medical <b>[...]</b>.	She wants to be a doctor, so she is in medical school.	[Noun] university department	Ella quiere ser doctora, así que está en la facultad de medicina.
 118A	still	I am <b>[...]</b> hungry.	I am still hungry.	[Adverb] up to now	Todavía tengo hambre.
-118B	still	Please stand <b>[...]</b>, I am taking a photo.	Please stand still, I am taking a photo.	[Adjective] not moving	Por favor quédate quieto, estoy tomando una foto.
+118B	still	I am taking a photo, so please stand <b>[...]</b>.	I am taking a photo, so please stand still.	[Adjective] not moving	Estoy tomando una foto, así que por favor quédate quieto.
 119A	try	The problem is hard, but I will <b>[...]</b> to solve it.	The problem is hard, but I will try to solve it.	[Verb] attempt	El problema es difícil, pero intentaré resolverlo.
-119B	try	This cake looks good, I want to <b>[...]</b> it.	This cake looks good, I want to try it.	[Verb] taste or test	Este pastel se ve bien, quiero probarlo.
+119B	try	The soup smells delicious, so I want to <b>[...]</b> it.	The soup smells delicious, so I want to try it.	[Verb] taste or test	La sopa huele deliciosa, así que quiero probarla.
 120A	last	This is the end, so it is the <b>[...]</b> page.	This is the end, so it is the last page.	[Adjective] final	Este es el final, así que es la última página.
 120B	last	The battery is full, so it will <b>[...]</b> ten hours.	The battery is full, so it will last ten hours.	[Verb] endure	La batería está llena, así que durará diez horas.
-120C	last	I saw him <b>[...]</b> week.	I saw him last week.	[Adjective] previous	Lo vi la semana pasada.
+120C	last	I saw him <b>[...]</b> Monday.	I saw him last Monday.	[Adjective] previous	Lo vi el lunes pasado.
 121A	ask	I am lost, so I will <b>[...]</b> the police.	I am lost, so I will ask the police.	[Verb] request information	Estoy perdido, así que le preguntaré a la policía.
-121B	ask	I want a drink, so I will <b>[...]</b> for water.	I want a drink, so I will ask for water.	[Verb] request something	Quiero una bebida, así que pediré agua.
+121B	ask	I am at the restaurant, so I will <b>[...]</b> for the menu.	I am at the restaurant, so I will ask for the menu.	[Verb] request something	Estoy en el restaurante, así que pediré el menú.
 122A	need	I am thirsty, so I <b>[...]</b> water.	I am thirsty, so I need water.	[Verb] require	Tengo sed, así que necesito agua.
-122B	need	There is a <b>[...]</b> for more food.	There is a need for more food.	[Noun] requirement	Hay una necesidad de más comida.
+122B	need	The hospital is full because there is a <b>[...]</b> for more doctors.	The hospital is full because there is a need for more doctors.	[Noun] requirement	El hospital está lleno porque hay una necesidad de más médicos.
 123A	too	The coffee is <b>[...]</b> hot.	The coffee is too hot.	[Adverb] excessively	El café está demasiado caliente.
 123B	too	My sister likes it <b>[...]</b>.	My sister likes it too.	[Adverb] also	A mi hermana también le gusta.
 124A	feel	I failed the test, so I <b>[...]</b> sad.	I failed the test, so I feel sad.	[Verb] experience emotion	Reprobé el examen, así que me siento triste.
 124B	feel	The weather is cold, so I <b>[...]</b> freezing.	The weather is cold, so I feel freezing.	[Verb] physical sensation	El clima está frío, así que me siento helado.
-125A	three	I have one, two, <b>[...]</b> apples.	I have one, two, three apples.	[Number] digit 3	Tengo una, dos, tres manzanas.
+125A	three	I have <b>[...]</b> apples.	I have three apples.	[Number] digit 3	Tengo tres manzanas.
 126A	state	California is a big <b>[...]</b> in America.	California is a big state in America.	[Noun] political territory	California es un estado grande en América.
-126B	state	Speak clearly and <b>[...]</b> your name.	Speak clearly and state your name.	[Verb] declare	Habla claramente y declara tu nombre.
-126C	state	After the rain, the field was in a wet <b>[...]</b>.	After the rain, the field was in a wet state.	[Noun] condition	Después de la lluvia, el campo estaba en un estado húmedo.
+126B	state	Write your name and <b>[...]</b> your age.	Write your name and state your age.	[Verb] declare	Escribe tu nombre y declara tu edad.
+126C	state	The old car was in a bad <b>[...]</b>.	The old car was in a bad state.	[Noun] condition	El auto viejo estaba en mal estado.
 127A	never	I <b>[...]</b> eat meat.	I never eat meat.	[Adverb] at no time	Nunca como carne.
 128A	become	The caterpillar eats leaves, so it will <b>[...]</b> a butterfly.	The caterpillar eats leaves, so it will become a butterfly.	[Verb] grow to be	La oruga come hojas, así que se convertirá en mariposa.
 129A	between	The table is <b>[...]</b> the chairs.	The table is between the chairs.	[Preposition] in the middle of	La mesa está entre las sillas.
 130A	high	The bird has strong wings, so it flies very <b>[...]</b>.	The bird has strong wings, so it flies very high.	[Adjective] elevated	El pájaro tiene alas fuertes, así que vuela muy alto.
-130B	high	The price of gas is very <b>[...]</b>.	The price of gas is very high.	[Adjective] large in amount or cost	El precio de la gasolina es muy alto.
+130B	high	I don't have enough money because the price is too <b>[...]</b>.	I don't have enough money because the price is too high.	[Adjective] large in amount or cost	No tengo suficiente dinero porque el precio es demasiado alto.
 131A	really	The movie was <b>[...]</b> good.	The movie was really good.	[Adverb] very or truly	La película fue realmente buena.
 132A	something	I want to eat <b>[...]</b>.	I want to eat something.	[Pronoun] unspecified thing	Quiero comer algo.
 133A	most	<b>[...]</b> people like pizza.	Most people like pizza.	[Adverb] majority	A la mayoría de las personas les gusta la pizza.
-134A	another	I want <b>[...]</b> cookie.	I want another cookie.	[Determiner] one more	Quiero otra galleta.
-134B	another	I don't like this hat, show me <b>[...]</b> one.	I don't like this hat, show me another one.	[Determiner] a different	No me gusta este sombrero, muéstrame otro (diferente).
+134A	another	I am still hungry, so I want <b>[...]</b> cookie.	I am still hungry, so I want another cookie.	[Determiner] one more	Todavía tengo hambre, así que quiero otra galleta.
+134B	another	I don't like this hat, so show me <b>[...]</b> one.	I don't like this hat, so show me another one.	[Determiner] a different	No me gusta este sombrero, así que muéstrame otro diferente.
 135A	much	I don't have <b>[...]</b> time.	I don't have much time.	[Adverb] large amount	No tengo mucho tiempo.
 136A	family	I live with my parents, so I love my <b>[...]</b>.	I live with my parents, so I love my family.	[Noun] relatives	Vivo con mis padres, así que amo a mi familia.
 137A	own	I did not rent this car, it is my <b>[...]</b> vehicle.	I did not rent this car, it is my own vehicle.	[Adjective] belonging to oneself	No alquilé este auto, es mi propio vehículo.
 137B	own	I bought this house, so I <b>[...]</b> it.	I bought this house, so I own it.	[Verb] possess	Compré esta casa, así que la poseo.
 138A	leave	The party is boring, so I will <b>[...]</b> now.	The party is boring, so I will leave now.	[Verb] depart	La fiesta es aburrida, así que me iré ahora.
-138B	leave	Do not eat all the pizza, please <b>[...]</b> a slice for me.	Do not eat all the pizza, please leave a slice for me.	[Verb] let remain	No te comas toda la pizza, por favor deja una porción para mí.
-138C	leave	He is sick, so he is on medical <b>[...]</b>.	He is sick, so he is on medical leave.	[Noun] permitted absence	Él está enfermo, así que está de baja médica.
+138B	leave	Do not eat all the pizza, but <b>[...]</b> a slice for me.	Do not eat all the pizza, but leave a slice for me.	[Verb] let remain	No te comas toda la pizza, pero deja una porción para mí.
+138C	leave	He is not at work today because he is on <b>[...]</b>.	He is not at work today because he is on leave.	[Noun] permitted absence	Hoy no está en el trabajo porque está de permiso.
 139A	put	The books are on the floor, so <b>[...]</b> them on the desk.	The books are on the floor, so put them on the desk.	[Verb] place	Los libros están en el piso, así que ponlos en el escritorio.
 140A	old	My grandfather was born eighty years ago, so he is very <b>[...]</b>.	My grandfather was born eighty years ago, so he is very old.	[Adjective] not young	Mi abuelo nació hace ochenta años, así que es muy viejo.
-140B	old	I saw my <b>[...]</b> teacher at the mall.	I saw my old teacher at the mall.	[Adjective] former	Vi a mi antiguo profesor en el centro comercial.
+140B	old	I moved to a new city, so I miss my <b>[...]</b> house.	I moved to a new city, so I miss my old house.	[Adjective] former	Me mudé a una ciudad nueva, así que extraño mi antigua casa.
 141A	while	I read <b>[...]</b> you sleep.	I read while you sleep.	[Conjunction] during the time	Yo leo mientras tú duermes.
-141B	while	I will be gone for a <b>[...]</b>.	I will be gone for a while.	[Noun] period of time	Me habré ido por un rato.
+141B	while	I am tired, so I will sit here for a <b>[...]</b>.	I am tired, so I will sit here for a while.	[Noun] period of time	Estoy cansado, así que me sentaré aquí por un rato.
 142A	mean	I don't know this word, so what does it <b>[...]</b>?	I don't know this word, so what does it mean?	[Verb] signify	No conozco esta palabra, así que ¿qué significa?
 142B	mean	He yells at people, so he is a <b>[...]</b> person.	He yells at people, so he is a mean person.	[Adjective] unkind	Él le grita a la gente, así que es una persona mala.
-142C	mean	I didn't <b>[...]</b> to break the glass.	I didn't mean to break the glass.	[Verb] intend	No tuve la intención de romper el vaso.
-142D	mean	The <b>[...]</b> score of the class was eighty.	The mean score of the class was eighty.	[Noun] average	El promedio de la clase fue de ochenta.
+142C	mean	I am sorry because I didn't <b>[...]</b> to break the glass.	I am sorry because I didn't mean to break the glass.	[Verb] intend	Lo siento porque no tuve la intención de romper el vaso.
+142D	mean	The students got different grades, but the <b>[...]</b> score was eighty.	The students got different grades, but the mean score was eighty.	[Noun] average	Los estudiantes sacaron notas diferentes, pero el promedio fue de ochenta.
 143A	keep	I don't need this pen, so you can <b>[...]</b> it.	I don't need this pen, so you can keep it.	[Verb] retain	No necesito este bolígrafo, así que puedes quedártelo.
 143B	keep	The dog is loud, and he will <b>[...]</b> barking all night.	The dog is loud, and he will keep barking all night.	[Verb] continue	El perro es ruidoso y seguirá ladrando toda la noche.
-143C	keep	Where do you <b>[...]</b> your shoes?	Where do you keep your shoes?	[Verb] store or save in a place	¿Dónde guardas tus zapatos?
+143C	keep	The room is messy, so please <b>[...]</b> your clothes in the closet.	The room is messy, so please keep your clothes in the closet.	[Verb] store or save in a place	La habitación está desordenada, así que por favor guarda tu ropa en el armario.
 144A	student	The teacher speaks, and the <b>[...]</b> listens.	The teacher speaks, and the student listens.	[Noun] learner	El profesor habla y el estudiante escucha.
 145A	why	Tell me <b>[...]</b> you are crying.	Tell me why you are crying.	[Adverb] for what reason	Dime por qué estás llorando.
 146A	let	The dog wants to go out, so please <b>[...]</b> him outside.	The dog wants to go out, so please let him outside.	[Verb] allow	El perro quiere salir, así que por favor déjalo salir.
 147A	great	We had fun, so it was a <b>[...]</b> party.	We had fun, so it was a great party.	[Adjective] very good	Nos divertimos, así que fue una gran fiesta.
-147B	great	The ocean is a <b>[...]</b> body of water.	The ocean is a great body of water.	[Adjective] large size	El océano es una gran masa de agua.
+147B	great	The ocean is huge, so it is a <b>[...]</b> body of water.	The ocean is huge, so it is a great body of water.	[Adjective] large size	El océano es inmenso, así que es una gran masa de agua.
 148A	same	We are twins, so we have the <b>[...]</b> face.	We are twins, so we have the same face.	[Adjective] identical	Somos gemelos, así que tenemos la misma cara.
 149A	big	The elephant eats a lot, so it is a <b>[...]</b> animal.	The elephant eats a lot, so it is a big animal.	[Adjective] large size	El elefante come mucho, así que es un animal grande.
 150A	group	Ten people are together, so there is a <b>[...]</b> waiting.	Ten people are together, so there is a group waiting.	[Noun] collection of people	Diez personas están juntas, así que hay un grupo esperando.
@@ -96,45 +96,45 @@
 153A	country	Japan is an island, and it is a beautiful <b>[...]</b>.	Japan is an island, and it is a beautiful country.	[Noun] nation	Japón es una isla y es un país hermoso.
 153B	country	I hate the city, so I live in the quiet <b>[...]</b>.	I hate the city, so I live in the quiet country.	[Noun] rural area	Odio la ciudad, así que vivo en el campo tranquilo.
 154A	help	The box is heavy, so please <b>[...]</b> me lift it.	The box is heavy, so please help me lift it.	[Verb] assist	La caja es pesada, así que por favor ayúdame a levantarla.
-154B	help	I cannot do it alone, I need your <b>[...]</b>.	I cannot do it alone, I need your help.	[Noun] assistance	No puedo hacerlo solo, necesito tu ayuda.
+154B	help	I cannot do it alone, so I need your <b>[...]</b>.	I cannot do it alone, so I need your help.	[Noun] assistance	No puedo hacerlo solo, así que necesito tu ayuda.
 155A	talk	I have news, so we must <b>[...]</b> now.	I have news, so we must talk now.	[Verb] speak	Tengo noticias, así que debemos hablar ahora.
-155B	talk	The professor gave a <b>[...]</b> on history.	The professor gave a talk on history.	[Noun] speech or conversation	El profesor dio una charla sobre historia.
+155B	talk	The professor is famous, so he gave a <b>[...]</b> about science.	The professor is famous, so he gave a talk about science.	[Noun] speech or conversation	El profesor es famoso, así que dio una charla sobre ciencia.
 156A	where	I don't know <b>[...]</b> they are.	I don't know where they are.	[Adverb] in what place	No sé dónde están.
 157A	turn	The road is blocked, so we must <b>[...]</b> left.	The road is blocked, so we must turn left.	[Verb] change direction	El camino está bloqueado, así que debemos girar a la izquierda.
-157B	turn	We are playing, and now it is my <b>[...]</b> to roll the dice.	We are playing, and now it is my turn to roll the dice.	[Noun] chance to act	Estamos jugando y ahora es mi turno de tirar los dados.
-157C	turn	In autumn, the leaves <b>[...]</b> brown.	In autumn, the leaves turn brown.	[Verb] change state or color	En otoño, las hojas se vuelven marrones.
+157B	turn	We are playing a game, and now it is my <b>[...]</b>.	We are playing a game, and now it is my turn.	[Noun] chance to act	Estamos jugando un juego y ahora es mi turno.
+157C	turn	It is autumn, so the leaves <b>[...]</b> brown.	It is autumn, so the leaves turn brown.	[Verb] change state or color	Es otoño, así que las hojas se vuelven marrones.
 158A	problem	My car engine is broken, so I have a <b>[...]</b>.	My car engine is broken, so I have a problem.	[Noun] difficulty	El motor de mi auto está roto, así que tengo un problema.
 159A	every	I work <b>[...]</b> day.	I work every day.	[Determiner] all of a group	Trabajo todos los días.
 160A	start	The race is now, so get ready to <b>[...]</b> running.	The race is now, so get ready to start running.	[Verb] begin	La carrera es ahora, así que prepárate para empezar a correr.
 161A	hand	It is cold, so I wear a glove on my <b>[...]</b>.	It is cold, so I wear a glove on my hand.	[Noun] body part	Hace frío, así que uso un guante en mi mano.
 161B	hand	I need the salt, so please <b>[...]</b> it to me.	I need the salt, so please hand it to me.	[Verb] give	Necesito la sal, así que por favor pásamela.
-161C	hand	Can you give me a <b>[...]</b> with these bags?	Can you give me a hand with these bags?	[Noun] assistance or help	¿Puedes echarme una mano con estas bolsas?
+161C	hand	The box is very heavy, so please give me a <b>[...]</b>.	The box is very heavy, so please give me a hand.	[Noun] assistance or help	La caja es muy pesada, así que por favor échame una mano.
 162A	might	It <b>[...]</b> rain tomorrow.	It might rain tomorrow.	[Modal Verb] possibility	Podría llover mañana.
 163A	american	The flag has stars, so it is an <b>[...]</b> symbol.	The flag has stars, so it is an american symbol.	[Adjective] from USA	La bandera tiene estrellas, así que es un símbolo estadounidense.
 163B	american	He was born in New York, so he is an <b>[...]</b>.	He was born in New York, so he is an american.	[Noun] person from USA	Él nació en Nueva York, así que es estadounidense.
 164A	show	I bought a new shirt, so I will <b>[...]</b> it to you.	I bought a new shirt, so I will show it to you.	[Verb] display	Compré una camisa nueva, así que te la mostraré.
 164B	show	We bought tickets, so we will watch the comedy <b>[...]</b>.	We bought tickets, so we will watch the comedy show.	[Noun] performance	Compramos entradas, así que veremos el espectáculo de comedia.
 165A	part	A wheel is an important <b>[...]</b> of a car.	A wheel is an important part of a car.	[Noun] piece or section	Una rueda es una parte importante de un auto.
-165B	part	He got a small <b>[...]</b> in the movie.	He got a small part in the movie.	[Noun] acting role	Consiguió un papel pequeño en la película.
+165B	part	He is an actor, so he got a small <b>[...]</b> in the movie.	He is an actor, so he got a small part in the movie.	[Noun] acting role	Él es actor, así que consiguió un papel pequeño en la película.
 166A	against	They are playing <b>[...]</b> each other.	They are playing against each other.	[Preposition] in opposition to	Están jugando uno contra el otro.
 167A	place	The park has trees, so it is a nice <b>[...]</b> to visit.	The park has trees, so it is a nice place to visit.	[Noun] location	El parque tiene árboles, así que es un lugar agradable para visitar.
 167B	place	The glass is fragile, so <b>[...]</b> it carefully on the table.	The glass is fragile, so place it carefully on the table.	[Verb] put	El vaso es frágil, así que colócalo con cuidado en la mesa.
 168A	such	We avoid <b>[...]</b> bad weather.	We avoid such bad weather.	[Determiner] of that kind	Evitamos ese tipo de mal clima.
 169A	again	Please say it <b>[...]</b>.	Please say it again.	[Adverb] one more time	Por favor dilo de nuevo.
-170A	few	There are very <b>[...]</b> customers.	There are very few customers.	[Determiner] small number	Hay muy pocos clientes.
+170A	few	There are <b>[...]</b> customers.	There are few customers.	[Determiner] small number	Hay pocos clientes.
 171A	case	It might rain, so take an umbrella just in <b>[...]</b>.	It might rain, so take an umbrella just in case.	[Noun] situation	Podría llover, así que lleva un paraguas por si acaso.
 171B	case	My glasses are fragile, so I keep them in a <b>[...]</b>.	My glasses are fragile, so I keep them in a case.	[Noun] container	Mis gafas son frágiles, así que las guardo en un estuche.
-171C	case	The judge will decide the legal <b>[...]</b> today.	The judge will decide the legal case today.	[Noun] legal dispute	El juez decidirá el caso legal hoy.
+171C	case	The police found the thief, so the <b>[...]</b> is closed.	The police found the thief, so the case is closed.	[Noun] legal dispute	La policía encontró al ladrón, así que el caso está cerrado.
 172A	week	There are seven days in a <b>[...]</b>.	There are seven days in a week.	[Noun] 7 days	Hay siete días en una semana.
 173A	company	Google makes software, so it is a big tech <b>[...]</b>.	Google makes software, so it is a big tech company.	[Noun] business	Google hace software, así que es una gran empresa de tecnología.
-173B	company	I enjoy your <b>[...]</b>.	I enjoy your company.	[Noun] companionship	Disfruto de tu compañía.
+173B	company	I am lonely, so I enjoy your <b>[...]</b>.	I am lonely, so I enjoy your company.	[Noun] companionship	Me siento solo, así que disfruto de tu compañía.
 174A	system	The computer crashed because the operating <b>[...]</b> is broken.	The computer crashed because the operating system is broken.	[Noun] organized set of parts	La computadora falló porque el sistema operativo está roto.
 175A	each	Give a candy to <b>[...]</b> student.	Give a candy to each student.	[Determiner] every individual	Dale un dulce a cada estudiante.
 176A	right	Two plus two is four, so your answer is <b>[...]</b>.	Two plus two is four, so your answer is right.	[Adjective] correct	Dos más dos es cuatro, así que tu respuesta es correcta.
-176B	right	Do not turn left, you must turn <b>[...]</b>.	Do not turn left, you must turn right.	[Noun] direction	No gires a la izquierda, debes girar a la derecha.
-176C	right	Education is a human <b>[...]</b>.	Education is a human right.	[Noun] entitlement	La educación es un derecho humano.
-176D	right	I will do it <b>[...]</b> now.	I will do it right now.	[Adverb] immediately	Lo haré ahora mismo.
-176E	right	It is not <b>[...]</b> to lie to your friends.	It is not right to lie to your friends.	[Adjective] morally good or just	No está bien mentirle a tus amigos.
+176B	right	Do not turn left, so you must turn <b>[...]</b>.	Do not turn left, so you must turn right.	[Noun] direction	No gires a la izquierda, así que debes girar a la derecha.
+176C	right	He is a citizen, so education is his human <b>[...]</b>.	He is a citizen, so education is his human right.	[Noun] entitlement	Él es ciudadano, así que la educación es su derecho humano.
+176D	right	I am in a hurry, so I will do it <b>[...]</b> now.	I am in a hurry, so I will do it right now.	[Adverb] immediately	Tengo prisa, así que lo haré ahora mismo.
+176E	right	He stole the money, and that was not <b>[...]</b>.	He stole the money, and that was not right.	[Adjective] morally good or just	Él robó el dinero, y eso no estuvo bien.
 177A	program	I want to watch the news, so I will turn on the television <b>[...]</b>.	I want to watch the news, so I will turn on the television program.	[Noun] planned series of events	Quiero ver las noticias, así que encenderé el programa de televisión.
 178A	hear	The music is loud, so I can <b>[...]</b> it clearly.	The music is loud, so I can hear it clearly.	[Verb] perceive sound	La música está fuerte, así que puedo escucharla claramente.
 179A	question	I am confused, so I will ask the teacher a <b>[...]</b>.	I am confused, so I will ask the teacher a question.	[Noun] inquiry	Estoy confundido, así que le haré una pregunta al profesor.
@@ -142,41 +142,41 @@
 180A	during	Do not talk <b>[...]</b> the movie.	Do not talk during the movie.	[Preposition] throughout the time	No hables durante la película.
 181A	play	The children have free time, so they <b>[...]</b> a game.	The children have free time, so they play a game.	[Verb] engage in a game	Los niños tienen tiempo libre, así que juegan un juego.
 181B	play	The actors are on stage, so we will watch the <b>[...]</b>.	The actors are on stage, so we will watch the play.	[Noun] theater performance	Los actores están en el escenario, así que veremos la obra.
-181C	play	She can <b>[...]</b> the piano very well.	She can play the piano very well.	[Verb] musical instrument	Ella puede tocar el piano muy bien.
-181D	play	Click the button to <b>[...]</b> the video.	Click the button to play the video.	[Verb] reproduce media	Haz clic en el botón para reproducir el video.
+181C	play	She is a musician, so she can <b>[...]</b> the piano.	She is a musician, so she can play the piano.	[Verb] musical instrument	Ella es música, así que puede tocar el piano.
+181D	play	I want to watch the video, so I will press <b>[...]</b>.	I want to watch the video, so I will press play.	[Verb] reproduce media	Quiero ver el video, así que presionaré reproducir.
 182A	government	The president makes laws, so he leads the <b>[...]</b>.	The president makes laws, so he leads the government.	[Noun] ruling body	El presidente hace leyes, así que lidera el gobierno.
 183A	run	The dog is chasing me, so I must <b>[...]</b> away.	The dog is chasing me, so I must run away.	[Verb] move fast	El perro me está persiguiendo, así que debo huir corriendo.
 183B	run	My father owns a bakery, so he must <b>[...]</b> the business.	My father owns a bakery, so he must run the business.	[Verb] manage	Mi padre tiene una panadería, así que debe administrar el negocio.
-183C	run	The river will <b>[...]</b> through the valley.	The river will run through the valley.	[Verb] flow	El río fluirá a través del valle.
-183D	run	We need to <b>[...]</b> a quick diagnostic test on the engine.	We need to run a quick diagnostic test on the engine.	[Verb] operate or execute	Necesitamos ejecutar una prueba de diagnóstico rápida en el motor.
+183C	run	The river is big, so the water will <b>[...]</b> through the valley.	The river is big, so the water will run through the valley.	[Verb] flow	El río es grande, así que el agua fluirá por el valle.
+183D	run	The machine is ready, so I need to <b>[...]</b> a test.	The machine is ready, so I need to run a test.	[Verb] operate or execute	La máquina está lista, así que necesito ejecutar una prueba.
 184A	small	A mouse is very little, so it is a <b>[...]</b> animal.	A mouse is very little, so it is a small animal.	[Adjective] little size	Un ratón es muy pequeño, así que es un animal pequeño.
-184B	small	Don't worry about it, it is just a <b>[...]</b> detail.	Don't worry about it, it is just a small detail.	[Adjective] unimportant	No te preocupes por eso, es solo un pequeño detalle.
+184B	small	Don't worry about it because it is just a <b>[...]</b> detail.	Don't worry about it because it is just a small detail.	[Adjective] unimportant	No te preocupes por eso porque es solo un pequeño detalle.
 185A	number	Seven is my favorite lucky <b>[...]</b>.	Seven is my favorite lucky number.	[Noun] quantity	El siete es mi número de la suerte favorito.
 186A	off	Please turn it <b>[...]</b>.	Please turn it off.	[Adverb] away from state	Por favor apágalo.
-186B	off	The television is <b>[...]</b>.	The television is off.	[Adjective] not functioning	La televisión está apagada.
+186B	off	I pressed the button, so now the television is <b>[...]</b>.	I pressed the button, so now the television is off.	[Adjective] not functioning	Presioné el botón, así que ahora la televisión está apagada.
 187A	always	I <b>[...]</b> drink coffee.	I always drink coffee.	[Adverb] at all times	Siempre bebo café.
 188A	move	The box blocks the door, so please <b>[...]</b> it.	The box blocks the door, so please move it.	[Verb] change position	La caja bloquea la puerta, así que por favor muévela.
-188B	move	That was a smart <b>[...]</b>.	That was a smart move.	[Noun] action	Ese fue un movimiento inteligente.
-188C	move	I will <b>[...]</b> to a new apartment next month.	I will move to a new apartment next month.	[Verb] change residence	Me mudaré a un nuevo apartamento el próximo mes.
+188B	move	He won the game because that was a smart <b>[...]</b>.	He won the game because that was a smart move.	[Noun] action	Ganó el juego porque ese fue un movimiento inteligente.
+188C	move	I bought a house, so I will <b>[...]</b> there next week.	I bought a house, so I will move there next week.	[Verb] change residence	Compré una casa, así que me mudaré allí la próxima semana.
 189A	night	The sun goes down, so it becomes <b>[...]</b>.	The sun goes down, so it becomes night.	[Noun] dark part of day	El sol se pone, así que se hace de noche.
-189B	night	We had a great <b>[...]</b> at the party.	We had a great night at the party.	[Noun] evening event	Tuvimos una gran noche en la fiesta.
-190A	live	I bought a house in London, so I will <b>[...]</b> there.	I bought a house in London, so I will live there.	[Verb] reside	Compré una casa en Londres, así que viviré allí.
-190B	live	The match is happening now, so it is on <b>[...]</b> television.	The match is happening now, so it is on live television.	[Adjective] real-time broadcast	El partido está ocurriendo ahora, así que está en televisión en vivo.
-191A	mr	The male teacher is called <b>[...]</b> Smith.	The male teacher is called mr Smith.	[Noun] title for man	El profesor se llama señor Smith.
-192A	point	It is rude, so do not use your finger to <b>[...]</b> at people.	It is rude, so do not use your finger to point at people.	[Verb] indicate with finger	Es de mala educación, así que no uses tu dedo para señalar a la gente.
-192B	point	The knife is sharp at the tip, so be careful with the <b>[...]</b>.	The knife is sharp at the tip, so be careful with the point.	[Noun] sharp end	El cuchillo está afilado en la punta, así que ten cuidado con la punta.
-192C	point	I see your <b>[...]</b>, but I disagree.	I see your point, but I disagree.	[Noun] main idea or argument	Entiendo tu punto, pero no estoy de acuerdo.
-192D	point	Our team just scored another <b>[...]</b>.	Our team just scored another point.	[Noun] unit of scoring	Nuestro equipo acaba de anotar otro punto.
-192E	point	At this <b>[...]</b> in history, everything changed.	At this point in history, everything changed.	[Noun] moment in time or stage	En este punto de la historia, todo cambió.
+189B	night	We went to a party, so we had a great <b>[...]</b>.	We went to a party, so we had a great night.	[Noun] evening event	Fuimos a una fiesta, así que pasamos una gran noche.
+190A	live	I bought a house, so I will <b>[...]</b> there.	I bought a house, so I will live there.	[Verb] reside	Compré una casa, así que viviré allí.
+190B	live	The match is happening now, so it is on <b>[...]</b> TV.	The match is happening now, so it is on live TV.	[Adjective] real-time broadcast	El partido está ocurriendo ahora, así que está en televisión en vivo.
+191A	mr	The teacher is <b>[...]</b> Smith.	The teacher is mr Smith.	[Noun] title for man	El profesor es el señor Smith.
+192A	point	It is rude, so do not <b>[...]</b> at people.	It is rude, so do not point at people.	[Verb] indicate with finger	Es de mala educación, así que no señales a la gente.
+192B	point	The knife is sharp, so be careful with the <b>[...]</b>.	The knife is sharp, so be careful with the point.	[Noun] sharp end	El cuchillo está afilado, así que ten cuidado con la punta.
+192C	point	I agree with you, so that is a good <b>[...]</b>.	I agree with you, so that is a good point.	[Noun] main idea or argument	Estoy de acuerdo contigo, así que ese es un buen punto.
+192D	point	Our team is winning because we scored another <b>[...]</b>.	Our team is winning because we scored another point.	[Noun] unit of scoring	Nuestro equipo está ganando porque anotamos otro punto.
+192E	point	The story was long, but at one <b>[...]</b> it became exciting.	The story was long, but at one point it became exciting.	[Noun] moment in time or stage	La historia era larga, pero en un punto se volvió emocionante.
 193A	believe	The man is telling a lie, so I do not <b>[...]</b> him.	The man is telling a lie, so I do not believe him.	[Verb] accept as true	El hombre está diciendo una mentira, así que no le creo.
 194A	hold	The baby is crying, so the mother will <b>[...]</b> him.	The baby is crying, so the mother will hold him.	[Verb] grasp in hands	El bebé está llorando, así que la madre lo sostendrá.
-194B	hold	This big bottle can <b>[...]</b> two liters of water.	This big bottle can hold two liters of water.	[Verb] contain capacity	Esta botella grande puede contener dos litros de agua.
-194C	hold	The school will <b>[...]</b> a meeting tomorrow.	The school will hold a meeting tomorrow.	[Verb] conduct or organize	La escuela llevará a cabo una reunión mañana.
-194D	hold	Please <b>[...]</b> the line for a moment.	Please hold the line for a moment.	[Verb] wait or delay	Por favor espere en línea un momento.
+194B	hold	This bottle is big, so it can <b>[...]</b> two liters.	This bottle is big, so it can hold two liters.	[Verb] contain capacity	Esta botella es grande, así que puede contener dos litros.
+194C	hold	The teacher is busy, so the school will <b>[...]</b> a meeting later.	The teacher is busy, so the school will hold a meeting later.	[Verb] conduct or organize	El profesor está ocupado, así que la escuela llevará a cabo una reunión más tarde.
+194D	hold	I am on the phone, so please <b>[...]</b> the line.	I am on the phone, so please hold the line.	[Verb] wait or delay	Estoy al teléfono, así que por favor espere en línea.
 195A	today	I am busy <b>[...]</b>.	I am busy today.	[Adverb] this day	Estoy ocupado hoy.
 196A	bring	It is raining, so do not forget to <b>[...]</b> your umbrella.	It is raining, so do not forget to bring your umbrella.	[Verb] carry to a place	Está lloviendo, así que no olvides traer tu paraguas.
 197A	happen	The road is dangerous, so an accident might <b>[...]</b>.	The road is dangerous, so an accident might happen.	[Verb] occur	El camino es peligroso, así que podría ocurrir un accidente.
-197B	happen	I <b>[...]</b> to know where he lives.	I happen to know where he lives.	[Verb] chance to be	Resulta que sé dónde vive él.
+197B	happen	I don't have a car, but I <b>[...]</b> to know where he lives.	I don't have a car, but I happen to know where he lives.	[Verb] chance to be	No tengo auto, pero resulta que sé dónde vive él.
 198A	next	Read the <b>[...]</b> chapter.	Read the next chapter.	[Adjective] immediately following	Lee el siguiente capítulo.
 198B	next	I will see you <b>[...]</b> Monday.	I will see you next Monday.	[Adjective] coming time	Te veré el próximo lunes.
 199A	without	I drink coffee <b>[...]</b> milk.	I drink coffee without milk.	[Preposition] not having	Bebo café sin leche.
